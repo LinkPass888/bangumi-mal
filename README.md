@@ -38,8 +38,8 @@ query ($mal: Int) { Media(idMal: $mal, type: ANIME) { id title { native romaji }
 | `data/bangumi-mal.min.json` | `{"<bangumi_id>": <mal_id>}` 全量紧凑表 | ~200 KB |
 | `data/bangumi-mal.json` | 同上，每行一条便于 diff | ~200 KB |
 | `data/shards/<n>.json` | **按 `bangumi_id % 100` 分片的按需查询**，单片 ~2 KB | 100 个文件 |
-| `data/bangumi-mal.records.json` | 完整记录（含标题、开播年月、来源标记） | ~2.4 MB |
-| `data/bangumi-mal.csv` | 同上，CSV | ~1 MB |
+| `data/bangumi-mal.records.json` | 完整记录（含标题、开播时间、来源标记） | ~2.8 MB |
+| `data/bangumi-mal.csv` | 同上，CSV | ~1.2 MB |
 | `data/mal-bangumi.json` | 反查 `{"<mal_id>": [<bangumi_id>, ...]}` | ~250 KB |
 | `data/conflicts.json` | 77 条两家不一致的记录 | ~21 KB |
 | `data/no-anilist.json` | AniList 查不到的 1,298 个 MAL id 名单（见下） | ~16 KB |
@@ -71,8 +71,13 @@ mal_id = M.get("8")   # 2904
 
 ```json
 {"bangumi_id": 8, "mal_id": 2904, "title_native": "コードギアス 反逆のルルーシュR2",
- "title_cn": "Code Geass 反叛的鲁路修R2", "begin": "2008-04", "source": "both", "conflict": false}
+ "title_cn": "Code Geass 反叛的鲁路修R2", "begin": "2008-04-06T08:00:00.000Z",
+ "broadcast": "R/2008-04-06T08:00:00.000Z/P7D", "source": "both", "conflict": false}
 ```
+
+`begin` 优先取 bangumi-data 的**完整时间戳**（ISO 8601，带时区）；只有 BangumiExtLinker 收录的条目会退化成
+它的粗粒度日期（`"2024-10"` 或 `"2008-04-06"`），极少数两者都没有则为 `null`。
+`broadcast` 是 bangumi-data 的 RFC 5545 重复规则（`R/起始时间/周期`，只有连载中的番才有），非该来源的条目为 `null`。
 
 `source` 取值：`both`（两家一致）/ `extlinker` / `bangumi-data`（只有这家有）。
 `conflict: true` 表示两家不一致、已按规则取 BangumiExtLinker 的值，原值在 `alternate_mal_id`。

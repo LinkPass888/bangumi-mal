@@ -10,7 +10,7 @@ Outputs (./data)
   bangumi-mal.json           compact lookup  {"<bangumi_id>": <mal_id>, ...}
   bangumi-mal.min.json       same, no indentation (smaller transfer)
   bangumi-mal.records.json   array of full records
-  bangumi-mal.csv            bangumi_id,mal_id,title_native,title_cn,begin,source,conflict
+  bangumi-mal.csv            bangumi_id,mal_id,title_native,title_cn,begin,broadcast,source,conflict
   mal-bangumi.json           reverse index  {"<mal_id>": [<bangumi_id>, ...]}
   conflicts.json             every disagreement between the two sources
   meta.json                  counts + source freshness
@@ -92,7 +92,9 @@ def load_extlinker(raw: list) -> dict[int, dict]:
             "mal_id": mal,
             "title_native": (row.get("name") or "").strip() or None,
             "title_cn": (row.get("name_cn") or "").strip() or None,
+            # coarse: "2024-10" / "2008-04-06" (bangumi-data's exact begin wins later)
             "begin": (row.get("date") or "").strip() or None,
+            "broadcast": None,
         }
     return out
 
@@ -107,12 +109,14 @@ def load_bangumi_data(raw: dict) -> dict[int, dict]:
         if bgm is None:
             continue
         zh = (item.get("titleTranslate") or {}).get("zh-Hans") or []
-        begin = (item.get("begin") or "")[:7] or None
         out[bgm] = {
             "mal_id": norm_id(sites.get("mal")),
             "title_native": (item.get("title") or "").strip() or None,
             "title_cn": (zh[0] or "").strip() if zh else None,
-            "begin": begin,
+            # full timestamp, e.g. "2024-10-06T14:30:00+09:00"
+            "begin": (item.get("begin") or "").strip() or None,
+            # RFC 5545 repeat rule, e.g. "R/2024-10-06T14:30:00+09:00/P7D"
+            "broadcast": (item.get("broadcast") or "").strip() or None,
         }
     return out
 
@@ -138,6 +142,7 @@ def main() -> None:
             "title_native": v["title_native"],
             "title_cn": v["title_cn"],
             "begin": v["begin"],
+            "broadcast": v["broadcast"],
             "source": "extlinker",
             "conflict": False,
         }
@@ -147,8 +152,11 @@ def main() -> None:
                 rec["title_native"] = other["title_native"]
             if (other.get("title_cn") and not rec["title_cn"]):
                 rec["title_cn"] = other["title_cn"]
-            if (other.get("begin") and not rec["begin"]):
+            # bangumi-data carries the exact timestamp + repeat rule -> prefer it
+            if other.get("begin"):
                 rec["begin"] = other["begin"]
+            if other.get("broadcast"):
+                rec["broadcast"] = other["broadcast"]
             if other["mal_id"] == rec["mal_id"]:
                 rec["source"] = "both"
             elif other["mal_id"] is not None:
@@ -160,6 +168,7 @@ def main() -> None:
                     "title_native": rec["title_native"],
                     "title_cn": rec["title_cn"],
                     "begin": rec["begin"],
+                    "broadcast": rec["broadcast"],
                     "chosen": {"mal_id": rec["mal_id"], "source": "BangumiExtLinker"},
                     "rejected": {"mal_id": other["mal_id"], "source": "bangumi-data"},
                 })
@@ -175,6 +184,7 @@ def main() -> None:
             "title_native": v["title_native"],
             "title_cn": v["title_cn"],
             "begin": v["begin"],
+            "broadcast": v["broadcast"],
             "source": "bangumi-data",
             "conflict": False,
         }
@@ -218,10 +228,10 @@ def main() -> None:
     csv_path = os.path.join(OUT_DIR, "bangumi-mal.csv")
     with open(csv_path, "w", encoding="utf-8", newline="") as fh:
         w = csv.writer(fh)
-        w.writerow(["bangumi_id", "mal_id", "title_native", "title_cn", "begin", "source", "conflict"])
+        w.writerow(["bangumi_id", "mal_id", "title_native", "title_cn", "begin", "broadcast", "source", "conflict"])
         for r in rows:
             w.writerow([r["bangumi_id"], r["mal_id"], r["title_native"] or "", r["title_cn"] or "",
-                        r["begin"] or "", r["source"], "1" if r["conflict"] else ""])
+                        r["begin"] or "", r["broadcast"] or "", r["source"], "1" if r["conflict"] else ""])
     print(f"  wrote {csv_path} ({os.path.getsize(csv_path) // 1024} KB)")
 
     meta = {

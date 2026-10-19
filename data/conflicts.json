@@ -1,7 +1,8 @@
 [
  {
   "bangumi_id": 1515,
-  "begin": "1996-04",
+  "begin": "1996-04-05T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 3421,
    "source": "BangumiExtLinker"
@@ -15,7 +16,8 @@
  },
  {
   "bangumi_id": 1969,
-  "begin": "2007-04",
+  "begin": "2007-04-07T09:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 2158,
    "source": "BangumiExtLinker"
@@ -29,7 +31,8 @@
  },
  {
   "bangumi_id": 2141,
-  "begin": "2001-10",
+  "begin": "2001-10-05T18:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 632,
    "source": "BangumiExtLinker"
@@ -43,7 +46,8 @@
  },
  {
   "bangumi_id": 2170,
-  "begin": "2007-07",
+  "begin": "2007-07-05T16:28:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 2604,
    "source": "BangumiExtLinker"
@@ -57,7 +61,8 @@
  },
  {
   "bangumi_id": 2496,
-  "begin": "2007-07",
+  "begin": "2007-07-12T18:25:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 2931,
    "source": "BangumiExtLinker"
@@ -71,7 +76,8 @@
  },
  {
   "bangumi_id": 3128,
-  "begin": "1999-03",
+  "begin": "1999-03-07T10:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 552,
    "source": "BangumiExtLinker"
@@ -85,7 +91,8 @@
  },
  {
   "bangumi_id": 3133,
-  "begin": "1999-03",
+  "begin": "1999-04-06T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 2961,
    "source": "BangumiExtLinker"
@@ -99,7 +106,8 @@
  },
  {
   "bangumi_id": 3731,
-  "begin": "1994-03",
+  "begin": "1994-03-12T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 170,
    "source": "BangumiExtLinker"
@@ -113,7 +121,8 @@
  },
  {
   "bangumi_id": 8484,
-  "begin": "1989-10",
+  "begin": "1989-10-11T23:30:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 1288,
    "source": "BangumiExtLinker"
@@ -127,7 +136,8 @@
  },
  {
   "bangumi_id": 8805,
-  "begin": "1993-07",
+  "begin": "1993-07-09T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 392,
    "source": "BangumiExtLinker"
@@ -141,7 +151,8 @@
  },
  {
   "bangumi_id": 10400,
-  "begin": "1995-10",
+  "begin": "1995-10-06T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 117,
    "source": "BangumiExtLinker"
@@ -155,7 +166,8 @@
  },
  {
   "bangumi_id": 10435,
-  "begin": "2011-04",
+  "begin": "2011-01-07T09:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 10014,
    "source": "BangumiExtLinker"
@@ -169,7 +181,8 @@
  },
  {
   "bangumi_id": 12433,
-  "begin": "2011-04",
+  "begin": "2011-04-08T14:15:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 8101,
    "source": "BangumiExtLinker"
@@ -183,7 +196,8 @@
  },
  {
   "bangumi_id": 16235,
-  "begin": "2011-10",
+  "begin": "2011-10-09T14:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 8460,
    "source": "BangumiExtLinker"
@@ -197,7 +211,8 @@
  },
  {
   "bangumi_id": 25369,
-  "begin": "2006-04",
+  "begin": "2006-04-01T17:05:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 2464,
    "source": "BangumiExtLinker"
@@ -211,7 +226,8 @@
  },
  {
   "bangumi_id": 25400,
-  "begin": "2006-06",
+  "begin": "2006-06-16T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 7112,
    "source": "BangumiExtLinker"
@@ -225,7 +241,8 @@
  },
  {
   "bangumi_id": 41029,
-  "begin": "2012-07",
+  "begin": "2012-07-01T15:56:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 16319,
    "source": "BangumiExtLinker"
@@ -239,7 +256,8 @@
  },
  {
   "bangumi_id": 42342,
-  "begin": "2012-08",
+  "begin": "2012-08-31T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 10893,
    "source": "BangumiExtLinker"
@@ -253,7 +271,8 @@
  },
  {
   "bangumi_id": 45771,
-  "begin": "1998-11",
+  "begin": "1998-11-30T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 715,
    "source": "BangumiExtLinker"
@@ -267,7 +286,8 @@
  },
  {
   "bangumi_id": 47759,
-  "begin": "1997-01",
+  "begin": "1997-01-06T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 2705,
    "source": "BangumiExtLinker"
@@ -281,7 +301,8 @@
  },
  {
   "bangumi_id": 49424,
-  "begin": "1996-12",
+  "begin": "1996-12-14T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 2076,
    "source": "BangumiExtLinker"
@@ -295,7 +316,8 @@
  },
  {
   "bangumi_id": 52485,
-  "begin": "2013-04",
+  "begin": "2013-04-03T17:43:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 16033,
    "source": "BangumiExtLinker"
@@ -309,7 +331,8 @@
  },
  {
   "bangumi_id": 53789,
-  "begin": "1985-10",
+  "begin": "1985-10-12T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 8152,
    "source": "BangumiExtLinker"
@@ -323,7 +346,8 @@
  },
  {
   "bangumi_id": 54338,
-  "begin": "2013-05",
+  "begin": "2013-05-10T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 15775,
    "source": "BangumiExtLinker"
@@ -337,7 +361,8 @@
  },
  {
   "bangumi_id": 58256,
-  "begin": "1997-03",
+  "begin": "1997-03-07T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 106,
    "source": "BangumiExtLinker"
@@ -351,7 +376,8 @@
  },
  {
   "bangumi_id": 58864,
-  "begin": "2007-10",
+  "begin": "2007-10-08T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 3737,
    "source": "BangumiExtLinker"
@@ -365,7 +391,8 @@
  },
  {
   "bangumi_id": 58865,
-  "begin": "2008-10",
+  "begin": "2008-10-13T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 3738,
    "source": "BangumiExtLinker"
@@ -379,7 +406,8 @@
  },
  {
   "bangumi_id": 66376,
-  "begin": "1987-03",
+  "begin": "1987-03-13T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 4200,
    "source": "BangumiExtLinker"
@@ -393,7 +421,8 @@
  },
  {
   "bangumi_id": 67755,
-  "begin": "1981-07",
+  "begin": "1981-07-04T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 2921,
    "source": "BangumiExtLinker"
@@ -407,7 +436,8 @@
  },
  {
   "bangumi_id": 67771,
-  "begin": "1987-10",
+  "begin": "1987-09-30T16:00:00.000Z",
+  "broadcast": "R/1987-09-30T16:00:00.000Z/P7D",
   "chosen": {
    "mal_id": 3205,
    "source": "BangumiExtLinker"
@@ -421,7 +451,8 @@
  },
  {
   "bangumi_id": 79114,
-  "begin": "2013-10",
+  "begin": "2013-10-09T16:30:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 15359,
    "source": "BangumiExtLinker"
@@ -435,7 +466,8 @@
  },
  {
   "bangumi_id": 84864,
-  "begin": "2014-02",
+  "begin": "2014-02-13T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 30885,
    "source": "BangumiExtLinker"
@@ -449,7 +481,8 @@
  },
  {
   "bangumi_id": 101195,
-  "begin": "2014-07",
+  "begin": "2014-07-08T12:25:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 25439,
    "source": "BangumiExtLinker"
@@ -463,7 +496,8 @@
  },
  {
   "bangumi_id": 113656,
-  "begin": "2014-10",
+  "begin": "2014-10-06T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 24073,
    "source": "BangumiExtLinker"
@@ -477,7 +511,8 @@
  },
  {
   "bangumi_id": 119677,
-  "begin": "2015-04",
+  "begin": "2015-04-04T14:30:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 29975,
    "source": "BangumiExtLinker"
@@ -491,7 +526,8 @@
  },
  {
   "bangumi_id": 119886,
-  "begin": "2015-04",
+  "begin": "2015-04-06T17:35:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 30924,
    "source": "BangumiExtLinker"
@@ -505,7 +541,8 @@
  },
  {
   "bangumi_id": 120018,
-  "begin": "1987-08",
+  "begin": "1987-07-31T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 5002,
    "source": "BangumiExtLinker"
@@ -519,7 +556,8 @@
  },
  {
   "bangumi_id": 120086,
-  "begin": "2014-09",
+  "begin": "2014-10-06T16:05:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 24073,
    "source": "BangumiExtLinker"
@@ -533,7 +571,8 @@
  },
  {
   "bangumi_id": 131090,
-  "begin": "2015-08",
+  "begin": "2015-08-28T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 33392,
    "source": "BangumiExtLinker"
@@ -547,7 +586,8 @@
  },
  {
   "bangumi_id": 131173,
-  "begin": "1982-04",
+  "begin": "1982-04-24T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 2510,
    "source": "BangumiExtLinker"
@@ -561,7 +601,8 @@
  },
  {
   "bangumi_id": 147359,
-  "begin": "2015-12",
+  "begin": "2015-12-04T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 31704,
    "source": "BangumiExtLinker"
@@ -575,7 +616,8 @@
  },
  {
   "bangumi_id": 162771,
-  "begin": "2016-06",
+  "begin": "2016-06-24T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 32380,
    "source": "BangumiExtLinker"
@@ -589,7 +631,8 @@
  },
  {
   "bangumi_id": 181439,
-  "begin": "2016-05",
+  "begin": "2016-05-10T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 30196,
    "source": "BangumiExtLinker"
@@ -603,7 +646,8 @@
  },
  {
   "bangumi_id": 192705,
-  "begin": "2007-10",
+  "begin": "2007-10-05T16:00:00.000Z",
+  "broadcast": "R/2007-10-05T16:00:00.000Z/P7D",
   "chosen": {
    "mal_id": 56379,
    "source": "BangumiExtLinker"
@@ -617,7 +661,8 @@
  },
  {
   "bangumi_id": 193452,
-  "begin": "2017-04",
+  "begin": "2017-04-08T08:35:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 56989,
    "source": "BangumiExtLinker"
@@ -631,7 +676,8 @@
  },
  {
   "bangumi_id": 195723,
-  "begin": "2021-01",
+  "begin": "2021-01-05T12:00:00.000Z",
+  "broadcast": "R/2021-01-05T12:00:00.000Z/P7D",
   "chosen": {
    "mal_id": 33839,
    "source": "BangumiExtLinker"
@@ -645,7 +691,8 @@
  },
  {
   "bangumi_id": 213654,
-  "begin": "1981-10",
+  "begin": "1981-10-03T06:30:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 3946,
    "source": "BangumiExtLinker"
@@ -659,7 +706,8 @@
  },
  {
   "bangumi_id": 217066,
-  "begin": "2017-08",
+  "begin": "2017-07-17T01:48:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 36520,
    "source": "BangumiExtLinker"
@@ -673,7 +721,8 @@
  },
  {
   "bangumi_id": 226223,
-  "begin": "2019-10",
+  "begin": "2019-10-25T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 36369,
    "source": "BangumiExtLinker"
@@ -687,7 +736,8 @@
  },
  {
   "bangumi_id": 227778,
-  "begin": "2018-01",
+  "begin": "2018-01-06T00:30:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 36947,
    "source": "BangumiExtLinker"
@@ -701,7 +751,8 @@
  },
  {
   "bangumi_id": 233647,
-  "begin": "1997-07",
+  "begin": "1997-07-11T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 1853,
    "source": "BangumiExtLinker"
@@ -715,7 +766,8 @@
  },
  {
   "bangumi_id": 256406,
-  "begin": "2018-09",
+  "begin": "2018-09-18T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 38710,
    "source": "BangumiExtLinker"
@@ -729,7 +781,8 @@
  },
  {
   "bangumi_id": 267732,
-  "begin": "2019-07",
+  "begin": "2019-07-06T15:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 38959,
    "source": "BangumiExtLinker"
@@ -743,7 +796,8 @@
  },
  {
   "bangumi_id": 269090,
-  "begin": "2019-09",
+  "begin": "2019-09-19T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 40295,
    "source": "BangumiExtLinker"
@@ -757,7 +811,8 @@
  },
  {
   "bangumi_id": 276051,
-  "begin": "2019-10",
+  "begin": "2019-10-02T10:25:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 41495,
    "source": "BangumiExtLinker"
@@ -771,7 +826,8 @@
  },
  {
   "bangumi_id": 285309,
-  "begin": "2014-05",
+  "begin": "2014-05-01T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 24773,
    "source": "BangumiExtLinker"
@@ -785,7 +841,8 @@
  },
  {
   "bangumi_id": 289856,
-  "begin": "2020-01",
+  "begin": "2020-01-09T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 38915,
    "source": "BangumiExtLinker"
@@ -799,7 +856,8 @@
  },
  {
   "bangumi_id": 291171,
-  "begin": "2021-03",
+  "begin": "2020-08-14T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 50227,
    "source": "BangumiExtLinker"
@@ -813,7 +871,8 @@
  },
  {
   "bangumi_id": 292238,
-  "begin": "2020-07",
+  "begin": "2020-07-11T15:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 41341,
    "source": "BangumiExtLinker"
@@ -827,7 +886,8 @@
  },
  {
   "bangumi_id": 295884,
-  "begin": "2020-04",
+  "begin": "2020-04-04T17:15:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 40841,
    "source": "BangumiExtLinker"
@@ -841,7 +901,8 @@
  },
  {
   "bangumi_id": 310263,
-  "begin": "2022-04",
+  "begin": "2022-04-13T13:00:00.000Z",
+  "broadcast": "R/2022-04-13T13:00:00.000Z/P7D",
   "chosen": {
    "mal_id": 51616,
    "source": "BangumiExtLinker"
@@ -855,7 +916,8 @@
  },
  {
   "bangumi_id": 314022,
-  "begin": "1988-01",
+  "begin": "1988-07-22T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 4427,
    "source": "BangumiExtLinker"
@@ -869,7 +931,8 @@
  },
  {
   "bangumi_id": 317747,
-  "begin": "1991-07",
+  "begin": "1991-07-19T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 2229,
    "source": "BangumiExtLinker"
@@ -883,7 +946,8 @@
  },
  {
   "bangumi_id": 322859,
-  "begin": "2021-07",
+  "begin": "2021-07-09T15:30:00.000Z",
+  "broadcast": "R/2021-07-09T15:30:00.000Z/P7D",
   "chosen": {
    "mal_id": 48976,
    "source": "BangumiExtLinker"
@@ -897,7 +961,8 @@
  },
  {
   "bangumi_id": 326874,
-  "begin": "2022-07",
+  "begin": "2022-07-08T16:05:00.000Z",
+  "broadcast": "R/2022-07-08T16:05:00.000Z/P7D",
   "chosen": {
    "mal_id": 52357,
    "source": "BangumiExtLinker"
@@ -911,7 +976,8 @@
  },
  {
   "bangumi_id": 331752,
-  "begin": "2022-01",
+  "begin": "2022-01-09T15:05:00.000Z",
+  "broadcast": "R/2022-01-09T15:05:00.000Z/P7D",
   "chosen": {
    "mal_id": 48583,
    "source": "BangumiExtLinker"
@@ -925,7 +991,8 @@
  },
  {
   "bangumi_id": 332261,
-  "begin": "2022-01",
+  "begin": "2022-01-07T15:30:00.000Z",
+  "broadcast": "R/2022-01-07T15:30:00.000Z/P7D",
   "chosen": {
    "mal_id": 48661,
    "source": "BangumiExtLinker"
@@ -939,7 +1006,8 @@
  },
  {
   "bangumi_id": 332570,
-  "begin": "2021-04",
+  "begin": "2021-04-07T09:00:00.000Z",
+  "broadcast": "R/2021-04-07T09:00:00.000Z/P7D",
   "chosen": {
    "mal_id": 48590,
    "source": "BangumiExtLinker"
@@ -953,7 +1021,8 @@
  },
  {
   "bangumi_id": 353266,
-  "begin": "2022-04",
+  "begin": "2022-04-09T15:00:00.000Z",
+  "broadcast": "R/2022-04-09T15:00:00.000Z/P7D",
   "chosen": {
    "mal_id": 50685,
    "source": "BangumiExtLinker"
@@ -967,7 +1036,8 @@
  },
  {
   "bangumi_id": 375087,
-  "begin": "1982-03",
+  "begin": "1982-03-12T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 2912,
    "source": "BangumiExtLinker"
@@ -981,7 +1051,8 @@
  },
  {
   "bangumi_id": 375913,
-  "begin": "2022-10",
+  "begin": "2022-10-07T15:30:00.000Z",
+  "broadcast": "R/2022-10-07T15:30:00.000Z/P7D",
   "chosen": {
    "mal_id": 53273,
    "source": "BangumiExtLinker"
@@ -995,7 +1066,8 @@
  },
  {
   "bangumi_id": 404427,
-  "begin": "2023-01",
+  "begin": "2023-01-19T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 52993,
    "source": "BangumiExtLinker"
@@ -1009,7 +1081,8 @@
  },
  {
   "bangumi_id": 418082,
-  "begin": "1989-07",
+  "begin": "1989-07-14T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 8194,
    "source": "BangumiExtLinker"
@@ -1023,7 +1096,8 @@
  },
  {
   "bangumi_id": 441795,
-  "begin": "2024-01",
+  "begin": "2024-01-06T16:30:00.000Z",
+  "broadcast": "R/2024-01-06T16:30:00.000Z/P7D",
   "chosen": {
    "mal_id": 56948,
    "source": "BangumiExtLinker"
@@ -1037,7 +1111,8 @@
  },
  {
   "bangumi_id": 486477,
-  "begin": "2024-08",
+  "begin": "2024-08-15T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 59275,
    "source": "BangumiExtLinker"
@@ -1051,7 +1126,8 @@
  },
  {
   "bangumi_id": 486676,
-  "begin": "2024-07",
+  "begin": "2024-07-16T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 56840,
    "source": "BangumiExtLinker"
@@ -1065,7 +1141,8 @@
  },
  {
   "bangumi_id": 500826,
-  "begin": "2001-07",
+  "begin": "2001-07-13T16:00:00.000Z",
+  "broadcast": null,
   "chosen": {
    "mal_id": 1707,
    "source": "BangumiExtLinker"
