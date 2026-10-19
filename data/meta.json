@@ -11,7 +11,7 @@
   "seasons": "seasons/<year>/<MM>.json (MM = 01/04/07/10), listed in seasons/index.json",
   "sharded": "shards/<bangumi_id % 100>.json"
  },
- "generated_at": "2026-10-19T03:49:53Z",
+ "generated_at": "2026-10-19T03:53:07Z",
  "pairs": 13270,
  "seasons": 328,
  "sources": {
