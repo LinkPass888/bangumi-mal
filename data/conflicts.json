@@ -1,0 +1,1080 @@
+[
+ {
+  "bangumi_id": 1515,
+  "begin": "1996-04",
+  "chosen": {
+   "mal_id": 3421,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 1486,
+   "source": "bangumi-data"
+  },
+  "title_cn": "玩偶游戏",
+  "title_native": "こどものおもちゃ"
+ },
+ {
+  "bangumi_id": 1969,
+  "begin": "2007-04",
+  "chosen": {
+   "mal_id": 2158,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 5037,
+   "source": "bangumi-data"
+  },
+  "title_cn": "奔向地球",
+  "title_native": "地球へ…"
+ },
+ {
+  "bangumi_id": 2141,
+  "begin": "2001-10",
+  "chosen": {
+   "mal_id": 632,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 276,
+   "source": "bangumi-data"
+  },
+  "title_cn": "魔力女管家",
+  "title_native": "まほろまてぃっく"
+ },
+ {
+  "bangumi_id": 2170,
+  "begin": "2007-07",
+  "chosen": {
+   "mal_id": 2604,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 1480,
+   "source": "bangumi-data"
+  },
+  "title_cn": "天翔少女",
+  "title_native": "スカイガールズ"
+ },
+ {
+  "bangumi_id": 2496,
+  "begin": "2007-07",
+  "chosen": {
+   "mal_id": 2931,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 2246,
+   "source": "bangumi-data"
+  },
+  "title_cn": "物怪",
+  "title_native": "モノノ怪"
+ },
+ {
+  "bangumi_id": 3128,
+  "begin": "1999-03",
+  "chosen": {
+   "mal_id": 552,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 2961,
+   "source": "bangumi-data"
+  },
+  "title_cn": "数码宝贝大冒险",
+  "title_native": "デジモンアドベンチャー"
+ },
+ {
+  "bangumi_id": 3133,
+  "begin": "1999-03",
+  "chosen": {
+   "mal_id": 2961,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 552,
+   "source": "bangumi-data"
+  },
+  "title_cn": "数码宝贝大冒险 滚球兽的诞生",
+  "title_native": "デジモンアドベンチャー"
+ },
+ {
+  "bangumi_id": 3731,
+  "begin": "1994-03",
+  "chosen": {
+   "mal_id": 170,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 1764,
+   "source": "bangumi-data"
+  },
+  "title_cn": "灌篮高手 剧场版",
+  "title_native": "スラムダンク"
+ },
+ {
+  "bangumi_id": 8484,
+  "begin": "1989-10",
+  "chosen": {
+   "mal_id": 1288,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 324,
+   "source": "bangumi-data"
+  },
+  "title_cn": "机动警察",
+  "title_native": "機動警察パトレイバー"
+ },
+ {
+  "bangumi_id": 8805,
+  "begin": "1993-07",
+  "chosen": {
+   "mal_id": 392,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 882,
+   "source": "bangumi-data"
+  },
+  "title_cn": "幽游白书 夜叉的阴谋",
+  "title_native": "幽☆遊☆白書"
+ },
+ {
+  "bangumi_id": 10400,
+  "begin": "1995-10",
+  "chosen": {
+   "mal_id": 117,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 116,
+   "source": "bangumi-data"
+  },
+  "title_cn": "神秘的世界",
+  "title_native": "神秘の世界エルハザード"
+ },
+ {
+  "bangumi_id": 10435,
+  "begin": "2011-04",
+  "chosen": {
+   "mal_id": 10014,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 10013,
+   "source": "bangumi-data"
+  },
+  "title_cn": "昭和物语",
+  "title_native": "テレビまんが 昭和物語"
+ },
+ {
+  "bangumi_id": 12433,
+  "begin": "2011-04",
+  "chosen": {
+   "mal_id": 8101,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 10187,
+   "source": "bangumi-data"
+  },
+  "title_cn": "变态生理研究班",
+  "title_native": "変ゼミ"
+ },
+ {
+  "bangumi_id": 16235,
+  "begin": "2011-10",
+  "chosen": {
+   "mal_id": 8460,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 10620,
+   "source": "bangumi-data"
+  },
+  "title_cn": "未来日记",
+  "title_native": "未来日記"
+ },
+ {
+  "bangumi_id": 25369,
+  "begin": "2006-04",
+  "chosen": {
+   "mal_id": 2464,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 965,
+   "source": "bangumi-data"
+  },
+  "title_cn": "吉永家的石像怪",
+  "title_native": "吉永さん家のガーゴイル"
+ },
+ {
+  "bangumi_id": 25400,
+  "begin": "2006-06",
+  "chosen": {
+   "mal_id": 7112,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 33717,
+   "source": "bangumi-data"
+  },
+  "title_cn": "银河铁道之夜",
+  "title_native": "銀河鉄道の夜 -Fantasy Railroad in the Stars-"
+ },
+ {
+  "bangumi_id": 41029,
+  "begin": "2012-07",
+  "chosen": {
+   "mal_id": 16319,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 14277,
+   "source": "bangumi-data"
+  },
+  "title_cn": "千岁 Get you!!",
+  "title_native": "ちとせげっちゅ!!"
+ },
+ {
+  "bangumi_id": 42342,
+  "begin": "2012-08",
+  "chosen": {
+   "mal_id": 10893,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 15359,
+   "source": "bangumi-data"
+  },
+  "title_cn": "京骚戏画",
+  "title_native": "京騒戯画"
+ },
+ {
+  "bangumi_id": 45771,
+  "begin": "1998-11",
+  "chosen": {
+   "mal_id": 715,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 718,
+   "source": "bangumi-data"
+  },
+  "title_cn": "如果在梦里遇见你",
+  "title_native": "夢で逢えたら"
+ },
+ {
+  "bangumi_id": 47759,
+  "begin": "1997-01",
+  "chosen": {
+   "mal_id": 2705,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 2706,
+   "source": "bangumi-data"
+  },
+  "title_cn": "四驱兄弟WGP",
+  "title_native": "爆走兄弟レッツ&ゴー!!WGP"
+ },
+ {
+  "bangumi_id": 49424,
+  "begin": "1996-12",
+  "chosen": {
+   "mal_id": 2076,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 2077,
+   "source": "bangumi-data"
+  },
+  "title_cn": "金田一少年之事件簿 歌剧院杀人事件",
+  "title_native": "金田一少年の事件簿"
+ },
+ {
+  "bangumi_id": 52485,
+  "begin": "2013-04",
+  "chosen": {
+   "mal_id": 16033,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 16035,
+   "source": "bangumi-data"
+  },
+  "title_cn": "狂欢节",
+  "title_native": "カーニヴァル"
+ },
+ {
+  "bangumi_id": 53789,
+  "begin": "1985-10",
+  "chosen": {
+   "mal_id": 8152,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 7307,
+   "source": "bangumi-data"
+  },
+  "title_cn": "鬼太郎第三季",
+  "title_native": "ゲゲゲの鬼太郎"
+ },
+ {
+  "bangumi_id": 54338,
+  "begin": "2013-05",
+  "chosen": {
+   "mal_id": 15775,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 15771,
+   "source": "bangumi-data"
+  },
+  "title_cn": "圣哥传",
+  "title_native": "聖☆おにいさん"
+ },
+ {
+  "bangumi_id": 58256,
+  "begin": "1997-03",
+  "chosen": {
+   "mal_id": 106,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 2071,
+   "source": "bangumi-data"
+  },
+  "title_cn": "花样男子 剧场版",
+  "title_native": "花より男子"
+ },
+ {
+  "bangumi_id": 58864,
+  "begin": "2007-10",
+  "chosen": {
+   "mal_id": 3737,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 3738,
+   "source": "bangumi-data"
+  },
+  "title_cn": "监狱兔 第二季",
+  "title_native": "Usavich Season 2"
+ },
+ {
+  "bangumi_id": 58865,
+  "begin": "2008-10",
+  "chosen": {
+   "mal_id": 3738,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 5397,
+   "source": "bangumi-data"
+  },
+  "title_cn": "监狱兔 第三季",
+  "title_native": "Usavich Season 3"
+ },
+ {
+  "bangumi_id": 66376,
+  "begin": "1987-03",
+  "chosen": {
+   "mal_id": 4200,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 1796,
+   "source": "bangumi-data"
+  },
+  "title_cn": "银河女警花 剧场版",
+  "title_native": "ダーティペア"
+ },
+ {
+  "bangumi_id": 67755,
+  "begin": "1981-07",
+  "chosen": {
+   "mal_id": 2921,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 2922,
+   "source": "bangumi-data"
+  },
+  "title_cn": "剧场版 明日之丈2",
+  "title_native": "あしたのジョー2"
+ },
+ {
+  "bangumi_id": 67771,
+  "begin": "1987-10",
+  "chosen": {
+   "mal_id": 3205,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 3259,
+   "source": "bangumi-data"
+  },
+  "title_cn": "柠檬天使",
+  "title_native": "レモンエンジェル"
+ },
+ {
+  "bangumi_id": 79114,
+  "begin": "2013-10",
+  "chosen": {
+   "mal_id": 15359,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 19703,
+   "source": "bangumi-data"
+  },
+  "title_cn": "京骚戏画",
+  "title_native": "京騒戯画"
+ },
+ {
+  "bangumi_id": 84864,
+  "begin": "2014-02",
+  "chosen": {
+   "mal_id": 30885,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 20767,
+   "source": "bangumi-data"
+  },
+  "title_cn": "野良神 OAD",
+  "title_native": "ノラガミ OAD"
+ },
+ {
+  "bangumi_id": 101195,
+  "begin": "2014-07",
+  "chosen": {
+   "mal_id": 25439,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 23551,
+   "source": "bangumi-data"
+  },
+  "title_cn": "漫研部～妄想突变～",
+  "title_native": "あいまいみー～妄想カタストロフ～"
+ },
+ {
+  "bangumi_id": 113656,
+  "begin": "2014-10",
+  "chosen": {
+   "mal_id": 24073,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 27519,
+   "source": "bangumi-data"
+  },
+  "title_cn": "成为英雄www",
+  "title_native": "なりヒロwww"
+ },
+ {
+  "bangumi_id": 119677,
+  "begin": "2015-04",
+  "chosen": {
+   "mal_id": 29975,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 28791,
+   "source": "bangumi-data"
+  },
+  "title_cn": "枪神斯托拉塔斯",
+  "title_native": "ガンスリンガー ストラトス"
+ },
+ {
+  "bangumi_id": 119886,
+  "begin": "2015-04",
+  "chosen": {
+   "mal_id": 30924,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 28817,
+   "source": "bangumi-data"
+  },
+  "title_cn": "御神乐学园组曲",
+  "title_native": "ミカグラ学園組曲"
+ },
+ {
+  "bangumi_id": 120018,
+  "begin": "1987-08",
+  "chosen": {
+   "mal_id": 5002,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 12745,
+   "source": "bangumi-data"
+  },
+  "title_cn": "赛车传奇 剧场版",
+  "title_native": "バリバリ伝説"
+ },
+ {
+  "bangumi_id": 120086,
+  "begin": "2014-09",
+  "chosen": {
+   "mal_id": 24073,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 49017,
+   "source": "bangumi-data"
+  },
+  "title_cn": null,
+  "title_native": "こんな私たちがなりゆきでヒロインになった結果www"
+ },
+ {
+  "bangumi_id": 131090,
+  "begin": "2015-08",
+  "chosen": {
+   "mal_id": 33392,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 30531,
+   "source": "bangumi-data"
+  },
+  "title_cn": "学园帅哥",
+  "title_native": "学園ハンサム The Animation"
+ },
+ {
+  "bangumi_id": 131173,
+  "begin": "1982-04",
+  "chosen": {
+   "mal_id": 2510,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 10820,
+   "source": "bangumi-data"
+  },
+  "title_cn": "战国魔神豪将军 剧场版",
+  "title_native": "戦国魔神ゴーショーグン"
+ },
+ {
+  "bangumi_id": 147359,
+  "begin": "2015-12",
+  "chosen": {
+   "mal_id": 31704,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 31772,
+   "source": "bangumi-data"
+  },
+  "title_cn": "一拳超人 OAD",
+  "title_native": "ワンパンマン OAD"
+ },
+ {
+  "bangumi_id": 162771,
+  "begin": "2016-06",
+  "chosen": {
+   "mal_id": 32380,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 34626,
+   "source": "bangumi-data"
+  },
+  "title_cn": "为美好的世界献上祝福！ OAD",
+  "title_native": "この素晴らしい世界に祝福を！ OAD"
+ },
+ {
+  "bangumi_id": 181439,
+  "begin": "2016-05",
+  "chosen": {
+   "mal_id": 30196,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 33247,
+   "source": "bangumi-data"
+  },
+  "title_cn": "翼与萤火虫",
+  "title_native": "つばさとホタル"
+ },
+ {
+  "bangumi_id": 192705,
+  "begin": "2007-10",
+  "chosen": {
+   "mal_id": 56379,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 12185,
+   "source": "bangumi-data"
+  },
+  "title_cn": null,
+  "title_native": "まめうしくん"
+ },
+ {
+  "bangumi_id": 193452,
+  "begin": "2017-04",
+  "chosen": {
+   "mal_id": 56989,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 34106,
+   "source": "bangumi-data"
+  },
+  "title_cn": "境界的轮回 第三季",
+  "title_native": "境界のRINNE 第3シリーズ"
+ },
+ {
+  "bangumi_id": 195723,
+  "begin": "2021-01",
+  "chosen": {
+   "mal_id": 33839,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 32455,
+   "source": "bangumi-data"
+  },
+  "title_cn": "剧偶像",
+  "title_native": "ゲキドル"
+ },
+ {
+  "bangumi_id": 213654,
+  "begin": "1981-10",
+  "chosen": {
+   "mal_id": 3946,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 3947,
+   "source": "bangumi-data"
+  },
+  "title_cn": "小麻烦千惠",
+  "title_native": "じゃりン子チエ"
+ },
+ {
+  "bangumi_id": 217066,
+  "begin": "2017-08",
+  "chosen": {
+   "mal_id": 36520,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 35739,
+   "source": "bangumi-data"
+  },
+  "title_cn": "PIKO太郎的摇篮曲",
+  "title_native": "ピコ太郎のララバイラーラバイ"
+ },
+ {
+  "bangumi_id": 226223,
+  "begin": "2019-10",
+  "chosen": {
+   "mal_id": 36369,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 36370,
+   "source": "bangumi-data"
+  },
+  "title_cn": "银河英雄传说 Die Neue These 星乱 第2章",
+  "title_native": "銀河英雄伝説 Die Neue These 星乱 第2章"
+ },
+ {
+  "bangumi_id": 227778,
+  "begin": "2018-01",
+  "chosen": {
+   "mal_id": 36947,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 36552,
+   "source": "bangumi-data"
+  },
+  "title_cn": "灵感大冒险",
+  "title_native": "ポチっと発明 ピカちんキット"
+ },
+ {
+  "bangumi_id": 233647,
+  "begin": "1997-07",
+  "chosen": {
+   "mal_id": 1853,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 6496,
+   "source": "bangumi-data"
+  },
+  "title_cn": "甜心战士F 剧场版",
+  "title_native": "キューティーハニーF"
+ },
+ {
+  "bangumi_id": 256406,
+  "begin": "2018-09",
+  "chosen": {
+   "mal_id": 38710,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 37884,
+   "source": "bangumi-data"
+  },
+  "title_cn": "黄金神威 OAD",
+  "title_native": "ゴールデンカムイ OAD"
+ },
+ {
+  "bangumi_id": 267732,
+  "begin": "2019-07",
+  "chosen": {
+   "mal_id": 38959,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 38936,
+   "source": "bangumi-data"
+  },
+  "title_cn": "君主·埃尔梅罗二世事件簿 魔眼收集列车 Grace note",
+  "title_native": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-"
+ },
+ {
+  "bangumi_id": 269090,
+  "begin": "2019-09",
+  "chosen": {
+   "mal_id": 40295,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 38816,
+   "source": "bangumi-data"
+  },
+  "title_cn": "你好 世界",
+  "title_native": "HELLO WORLD"
+ },
+ {
+  "bangumi_id": 276051,
+  "begin": "2019-10",
+  "chosen": {
+   "mal_id": 41495,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 39355,
+   "source": "bangumi-data"
+  },
+  "title_cn": "虚空魔境 第二季",
+  "title_native": "ラディアン 第2シリーズ"
+ },
+ {
+  "bangumi_id": 285309,
+  "begin": "2014-05",
+  "chosen": {
+   "mal_id": 24773,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 31019,
+   "source": "bangumi-data"
+  },
+  "title_cn": "野良折耳猫",
+  "title_native": "野良スコ"
+ },
+ {
+  "bangumi_id": 289856,
+  "begin": "2020-01",
+  "chosen": {
+   "mal_id": 38915,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 40332,
+   "source": "bangumi-data"
+  },
+  "title_cn": "巨虫列岛",
+  "title_native": "巨蟲列島"
+ },
+ {
+  "bangumi_id": 291171,
+  "begin": "2021-03",
+  "chosen": {
+   "mal_id": 50227,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 40416,
+   "source": "bangumi-data"
+  },
+  "title_cn": "约会大作战 赤黑新章：虚或实",
+  "title_native": "デート・ア・バレット デッド・オア・バレット"
+ },
+ {
+  "bangumi_id": 292238,
+  "begin": "2020-07",
+  "chosen": {
+   "mal_id": 41341,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 40540,
+   "source": "bangumi-data"
+  },
+  "title_cn": "刀剑神域 爱丽丝篇 异界战争 -终章-",
+  "title_native": "ソードアート・オンライン アリシゼーション War of Underworld -THE LAST SEASON-"
+ },
+ {
+  "bangumi_id": 295884,
+  "begin": "2020-04",
+  "chosen": {
+   "mal_id": 40841,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 40815,
+   "source": "bangumi-data"
+  },
+  "title_cn": "小书痴的下克上～为了成为图书管理员而不择手段～ 第2部",
+  "title_native": "本好きの下剋上～司書になるためには手段を選んでいられません～ 第2部"
+ },
+ {
+  "bangumi_id": 310263,
+  "begin": "2022-04",
+  "chosen": {
+   "mal_id": 51616,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 42429,
+   "source": "bangumi-data"
+  },
+  "title_cn": "小书痴的下克上～为了成为图书管理员而不择手段～ 第3部",
+  "title_native": "本好きの下剋上～司書になるためには手段を選んでいられません～ 第3部"
+ },
+ {
+  "bangumi_id": 314022,
+  "begin": "1988-01",
+  "chosen": {
+   "mal_id": 4427,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 16728,
+   "source": "bangumi-data"
+  },
+  "title_cn": "斗将！拉面男 剧场版",
+  "title_native": "闘将!!拉麺男 劇場版"
+ },
+ {
+  "bangumi_id": 317747,
+  "begin": "1991-07",
+  "chosen": {
+   "mal_id": 2229,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 7435,
+   "source": "bangumi-data"
+  },
+  "title_cn": "勇者斗恶龙 达尔的大冒险 剧场版",
+  "title_native": "DRAGON QUEST ダイの大冒険"
+ },
+ {
+  "bangumi_id": 322859,
+  "begin": "2021-07",
+  "chosen": {
+   "mal_id": 48976,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 44881,
+   "source": "bangumi-data"
+  },
+  "title_cn": "我立于百万生命之上 第二季",
+  "title_native": "100万の命の上に俺は立っている 第2シーズン"
+ },
+ {
+  "bangumi_id": 326874,
+  "begin": "2022-07",
+  "chosen": {
+   "mal_id": 52357,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 47164,
+   "source": "bangumi-data"
+  },
+  "title_cn": "在地下城寻求邂逅是否搞错了什么 第四季 新章 迷宫篇",
+  "title_native": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇"
+ },
+ {
+  "bangumi_id": 331752,
+  "begin": "2022-01",
+  "chosen": {
+   "mal_id": 48583,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 40028,
+   "source": "bangumi-data"
+  },
+  "title_cn": "进击的巨人 最终季 Part.2",
+  "title_native": "進撃の巨人 The Final Season Part.2"
+ },
+ {
+  "bangumi_id": 332261,
+  "begin": "2022-01",
+  "chosen": {
+   "mal_id": 48661,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 51367,
+   "source": "bangumi-data"
+  },
+  "title_cn": "JOJO的奇妙冒险 石之海",
+  "title_native": "ジョジョの奇妙な冒険 ストーンオーシャン"
+ },
+ {
+  "bangumi_id": 332570,
+  "begin": "2021-04",
+  "chosen": {
+   "mal_id": 48590,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 49483,
+   "source": "bangumi-data"
+  },
+  "title_cn": "迷你龙小剧场",
+  "title_native": "ミニドラ"
+ },
+ {
+  "bangumi_id": 353266,
+  "begin": "2022-04",
+  "chosen": {
+   "mal_id": 50685,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 50160,
+   "source": "bangumi-data"
+  },
+  "title_cn": "王者天下 第四季",
+  "title_native": "キングダム 第4シリーズ"
+ },
+ {
+  "bangumi_id": 375087,
+  "begin": "1982-03",
+  "chosen": {
+   "mal_id": 2912,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 19897,
+   "source": "bangumi-data"
+  },
+  "title_cn": "剧场版 小狗亚斑",
+  "title_native": "劇場版 おはよう!スパンク"
+ },
+ {
+  "bangumi_id": 375913,
+  "begin": "2022-10",
+  "chosen": {
+   "mal_id": 53273,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 48661,
+   "source": "bangumi-data"
+  },
+  "title_cn": "JOJO的奇妙冒险 石之海 第2部分",
+  "title_native": "ジョジョの奇妙な冒険 ストーンオーシャン 第2クール"
+ },
+ {
+  "bangumi_id": 404427,
+  "begin": "2023-01",
+  "chosen": {
+   "mal_id": 52993,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 53499,
+   "source": "bangumi-data"
+  },
+  "title_cn": "偶像活动！ 10th STORY ～通往未来的STARWAY～",
+  "title_native": "アイカツ！ 10th STORY ～未来へのSTARWAY～"
+ },
+ {
+  "bangumi_id": 418082,
+  "begin": "1989-07",
+  "chosen": {
+   "mal_id": 8194,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 8226,
+   "source": "bangumi-data"
+  },
+  "title_cn": "恶魔小子",
+  "title_native": "悪魔くん"
+ },
+ {
+  "bangumi_id": 441795,
+  "begin": "2024-01",
+  "chosen": {
+   "mal_id": 56948,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 55690,
+   "source": "bangumi-data"
+  },
+  "title_cn": "我心里危险的东西 第二季",
+  "title_native": "僕の心のヤバイやつ 第2期"
+ },
+ {
+  "bangumi_id": 486477,
+  "begin": "2024-08",
+  "chosen": {
+   "mal_id": 59275,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 63877,
+   "source": "bangumi-data"
+  },
+  "title_cn": null,
+  "title_native": "KING OF PRISM -Dramatic PRISM.1-"
+ },
+ {
+  "bangumi_id": 486676,
+  "begin": "2024-07",
+  "chosen": {
+   "mal_id": 56840,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 59274,
+   "source": "bangumi-data"
+  },
+  "title_cn": "时光巡逻队 第二季",
+  "title_native": "T・Pぼん シーズン2"
+ },
+ {
+  "bangumi_id": 500826,
+  "begin": "2001-07",
+  "chosen": {
+   "mal_id": 1707,
+   "source": "BangumiExtLinker"
+  },
+  "rejected": {
+   "mal_id": 6310,
+   "source": "bangumi-data"
+  },
+  "title_cn": "金肉人二世 剧场版",
+  "title_native": "キン肉マンII世"
+ }
+]

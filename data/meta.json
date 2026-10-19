@@ -1,0 +1,19 @@
+{
+ "by_source": {
+  "bangumi-data": 946,
+  "both": 7333,
+  "extlinker": 4991
+ },
+ "conflict_policy": "BangumiExtLinker wins; the rejected MAL id is kept in conflicts.json",
+ "conflicts": 77,
+ "endpoints": {
+  "full": "bangumi-mal.min.json",
+  "sharded": "shards/<bangumi_id % 100>.json"
+ },
+ "generated_at": "2026-10-19T01:17:37Z",
+ "pairs": 13270,
+ "sources": {
+  "BangumiExtLinker": "https://github.com/Rhilip/BangumiExtLinker",
+  "bangumi-data": "https://github.com/bangumi-data/bangumi-data"
+ }
+}
