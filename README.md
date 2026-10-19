@@ -35,13 +35,13 @@ query ($mal: Int) { Media(idMal: $mal, type: ANIME) { id title { native romaji }
 
 | 文件 | 内容 | 大小 |
 |---|---|---|
-| `data/bangumi-mal.min.json` | `{"<bangumi_id>": <mal_id>}` 全量紧凑表 | ~200 KB |
-| `data/bangumi-mal.json` | 同上，每行一条便于 diff | ~200 KB |
+| `data/bangumi-mal.min.json` | `{"<bangumi_id>": <mal_id>}` 全量紧凑表（无 MAL ID 的条目值为 `null`） | ~370 KB |
+| `data/bangumi-mal.json` | 同上，每行一条便于 diff | ~370 KB |
 | `data/shards/<n>.json` | **按 `bangumi_id % 100` 分片的按需查询**，单片 ~2 KB | 100 个文件 |
-| `data/seasons/<年>/<季>.json` | **按季输出**，只含该季番剧的完整记录（`<季>` = `01/04/07/10`） | 328 个文件 |
-| `data/seasons/index.json` | 有数据的季度清单 + 每季数量 | ~19 KB |
-| `data/bangumi-mal.records.json` | 完整记录（含标题、开播时间、来源标记） | ~2.8 MB |
-| `data/bangumi-mal.csv` | 同上，CSV | ~1.2 MB |
+| `data/seasons/<年>/<季>.json` | **按季输出**，只含该季番剧的完整记录（`<季>` = `01/04/07/10`） | 437 个文件 |
+| `data/seasons/index.json` | 有数据的季度清单 + 每季数量 | ~26 KB |
+| `data/bangumi-mal.records.json` | 完整记录（含标题、开播时间、来源标记） | ~4.9 MB |
+| `data/bangumi-mal.csv` | 同上，CSV | ~2.0 MB |
 | `data/mal-bangumi.json` | 反查 `{"<mal_id>": [<bangumi_id>, ...]}` | ~250 KB |
 | `data/conflicts.json` | 77 条两家不一致的记录 | ~21 KB |
 | `data/no-anilist.json` | AniList 查不到的 1,298 个 MAL id 名单（见下） | ~16 KB |
@@ -81,7 +81,7 @@ for (const [bgmId, rec] of Object.entries(season.items)) {
 
 季度边界按 **JST（UTC+9）** 判定，因为 bangumi-data 的 `begin` 是 UTC：深夜档 `2024-10-01 00:30 JST`
 存成 `2024-09-30T15:30Z`，按原始 UTC 月份会被归错季（全量有 149 行属于这种情况）。
-`begin` 只有年月或为 `null` 的记录会退化成按年月判定 / 不进任何季度（54 行）。
+`begin` 只有年月或为 `null` 的记录会退化成按年月判定 / 不进任何季度（2,775 行，见 `seasons/index.json` 的 `undated_rows`）。
 
 要标题 / 开播时间就拉 `bangumi-mal.records.json`：
 
@@ -95,6 +95,10 @@ for (const [bgmId, rec] of Object.entries(season.items)) {
 它的粗粒度日期（`"2024-10"` 或 `"2008-04-06"`），极少数两者都没有则为 `null`。
 `broadcast` 是 bangumi-data 的 RFC 5545 重复规则（`R/起始时间/周期`，只有连载中的番才有），非该来源的条目为 `null`。
 
+`mal_id` 为 `null` 表示：该番在 Bangumi 有条目，但两个数据源都没给出它的 MAL ID（多为 MAL 未收录的国产动画、
+总集篇/特别篇等）。这类记录照样带 `begin` / `broadcast`，可以据此推算更新时间，也同样出现在 `shards/` 和 `seasons/` 里；
+`mal-bangumi.json` 反查表不含它们（没有 MAL ID 可反查）。
+
 `source` 取值：`both`（两家一致）/ `extlinker` / `bangumi-data`（只有这家有）。
 `conflict: true` 表示两家不一致、已按规则取 BangumiExtLinker 的值，原值在 `alternate_mal_id`。
 
@@ -105,7 +109,7 @@ for (const [bgmId, rec] of Object.entries(season.items)) {
 
 | | 数量 |
 |---|---:|
-| 映射行总数 | 13,270 |
+| 映射行总数 | 23,527（其中 13,270 条有 MAL ID，10,257 条 `mal_id` 为 `null`） |
 | 其中 AniList 查不到 | **1,305 行 / 1,298 个不同 MAL id**（9.9%） |
 | —— 来自「仅 BangumiExtLinker」段 | 1,197 / 4,914（**24.4%**） |
 | —— 来自「仅 bangumi-data」段 | 17 / 946（1.8%） |

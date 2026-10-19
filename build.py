@@ -9,7 +9,7 @@ Sources
 Outputs (./data)
   bangumi-mal.json           compact lookup  {"<bangumi_id>": <mal_id>, ...}
   bangumi-mal.min.json       same, no indentation (smaller transfer)
-  bangumi-mal.records.json   array of full records
+  bangumi-mal.records.json   array of full records (mal_id is null when neither source has one)
   bangumi-mal.csv            bangumi_id,mal_id,title_native,title_cn,begin,broadcast,source,conflict
   mal-bangumi.json           reverse index  {"<mal_id>": [<bangumi_id>, ...]}
   conflicts.json             every disagreement between the two sources
@@ -170,10 +170,9 @@ def main() -> None:
     records: dict[int, dict] = {}
     conflicts: list[dict] = []
 
-    # 1. BangumiExtLinker is the backbone
+    # 1. BangumiExtLinker is the backbone (entries without a MAL id are kept too:
+    #    their begin/broadcast still drive release-schedule lookups downstream)
     for bgm, v in bx.items():
-        if v["mal_id"] is None:
-            continue
         rec = {
             "bangumi_id": bgm,
             "mal_id": v["mal_id"],
@@ -197,6 +196,11 @@ def main() -> None:
                 rec["broadcast"] = other["broadcast"]
             if other["mal_id"] == rec["mal_id"]:
                 rec["source"] = "both"
+            elif rec["mal_id"] is None:
+                # ExtLinker has the entry but no MAL id -> take bangumi-data's
+                # (a fill, not a disagreement)
+                rec["mal_id"] = other["mal_id"]
+                rec["source"] = "bangumi-data"
             elif other["mal_id"] is not None:
                 # disagreement -> ExtLinker wins, keep the other value for auditing
                 rec["conflict"] = True
@@ -214,7 +218,7 @@ def main() -> None:
 
     # 2. bangumi-data fills the gaps (mostly the newest cours)
     for bgm, v in bd.items():
-        if bgm in records or v["mal_id"] is None:
+        if bgm in records:
             continue
         records[bgm] = {
             "bangumi_id": bgm,
@@ -233,6 +237,8 @@ def main() -> None:
     lookup = {str(r["bangumi_id"]): r["mal_id"] for r in rows}
     reverse: dict[str, list[int]] = {}
     for r in rows:
+        if r["mal_id"] is None:   # nothing to reverse-map
+            continue
         reverse.setdefault(str(r["mal_id"]), []).append(r["bangumi_id"])
 
     os.makedirs(OUT_DIR, exist_ok=True)
@@ -302,9 +308,12 @@ def main() -> None:
                         r["begin"] or "", r["broadcast"] or "", r["source"], "1" if r["conflict"] else ""])
     print(f"  wrote {csv_path} ({os.path.getsize(csv_path) // 1024} KB)")
 
+    with_mal = sum(1 for r in rows if r["mal_id"] is not None)
     meta = {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "pairs": len(rows),
+        "records": len(rows),
+        "pairs": with_mal,
+        "no_mal_id": len(rows) - with_mal,
         "conflicts": len(conflicts),
         "seasons": len(season_index),
         "undated_rows": undated,
@@ -325,7 +334,8 @@ def main() -> None:
         },
     }
     dump("meta.json", meta, 1)
-    print(f"\ndone: {len(rows)} pairs, {len(conflicts)} conflicts")
+    print(f"\ndone: {with_mal} pairs (+{len(rows) - with_mal} without MAL id) "
+          f"= {len(rows)} records, {len(conflicts)} conflicts")
 
 
 if __name__ == "__main__":
