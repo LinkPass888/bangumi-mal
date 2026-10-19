@@ -13,6 +13,9 @@ Outputs (./data)
   bangumi-mal.csv            bangumi_id,mal_id,title_native,title_cn,begin,broadcast,source,conflict
   mal-bangumi.json           reverse index  {"<mal_id>": [<bangumi_id>, ...]}
   conflicts.json             every disagreement between the two sources
+  shards/<n>.json            lookup split by bangumi_id % 100
+  seasons/<year>/<MM>.json   full records of one season (MM = 01/04/07/10)
+  seasons/index.json         available seasons + per-season counts
   meta.json                  counts + source freshness
 
 No third-party dependencies on purpose (runs on a bare GH runner).
@@ -23,11 +26,12 @@ import csv
 import json
 import os
 import re
+import shutil
 import ssl
 import sys
 import urllib.error
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 BX_URLS = [
     "https://raw.githubusercontent.com/Rhilip/BangumiExtLinker/main/data/anime_map.json",
@@ -41,6 +45,40 @@ BD_URLS = [
 
 OUT_DIR = os.environ.get("OUT_DIR", "data")
 REFRESH = os.environ.get("REFRESH") == "1"
+
+JST = timezone(timedelta(hours=9))
+BEGIN_RE = re.compile(
+    r"^(\d{4})-(\d{2})(?:-(\d{2}))?"
+    r"(?:T(\d{2}):(\d{2}):(\d{2})(?:\.\d+)?(Z|[+-]\d{2}:?\d{2})?)?$"
+)
+
+
+def season_of(begin: str | None) -> tuple[int, int] | None:
+    """(year, season start month) for an ISO-ish begin string, or None.
+
+    Seasons start in January / April / July / October.  Full timestamps are
+    normalised to JST first, because late-night anime airing at e.g.
+    2024-10-01 00:30 JST is stored by bangumi-data as 2024-09-30T15:30Z and
+    would otherwise be filed under the wrong season.
+    """
+    if not begin:
+        return None
+    begin = begin.strip()
+    m = BEGIN_RE.match(begin)
+    if not m:
+        return None
+    year, month = int(m.group(1)), int(m.group(2))
+    if m.group(4) and m.group(7):  # timestamp with a timezone -> JST
+        try:
+            dt = datetime.fromisoformat(begin.replace("Z", "+00:00"))
+            if dt.tzinfo is not None:
+                dt = dt.astimezone(JST)
+            year, month = dt.year, dt.month
+        except ValueError:
+            pass
+    if not 1 <= month <= 12:
+        return None
+    return year, ((month - 1) // 3) * 3 + 1
 
 
 def fetch(urls: list[str], cache: str) -> dict:
@@ -225,6 +263,36 @@ def main() -> None:
             fh.write("\n")
     print(f"  wrote {shard_dir}/*.json (100 shards)")
 
+    # season index: data/seasons/<year>/<MM>.json (MM = 01 / 04 / 07 / 10)
+    season_dir = os.path.join(OUT_DIR, "seasons")
+    if os.path.isdir(season_dir):
+        shutil.rmtree(season_dir)
+    os.makedirs(season_dir, exist_ok=True)
+    seasons: dict[tuple[int, int], list[dict]] = {}
+    undated = 0
+    for r in rows:
+        key = season_of(r["begin"])
+        if key is None:
+            undated += 1
+            continue
+        seasons.setdefault(key, []).append(r)
+
+    season_index: dict[str, dict] = {}
+    for (year, month), items in sorted(seasons.items()):
+        items.sort(key=lambda r: (r["begin"] or "", r["bangumi_id"]))
+        os.makedirs(os.path.join(season_dir, str(year)), exist_ok=True)
+        label = f"{year}-{month:02d}"
+        with open(os.path.join(season_dir, str(year), f"{month:02d}.json"), "w", encoding="utf-8") as fh:
+            json.dump({"season": label, "count": len(items),
+                       "items": {str(r["bangumi_id"]): r for r in items}},
+                      fh, ensure_ascii=False)
+            fh.write("\n")
+        season_index[label] = {"file": f"{year}/{month:02d}.json", "count": len(items)}
+    dump("seasons/index.json", {"count": len(season_index), "rows": len(rows) - undated,
+                                "undated_rows": undated, "seasons": season_index}, 1)
+    print(f"  wrote {season_dir}/<year>/<MM>.json ({len(season_index)} seasons, "
+          f"{len(rows) - undated} rows, {undated} undated)")
+
     csv_path = os.path.join(OUT_DIR, "bangumi-mal.csv")
     with open(csv_path, "w", encoding="utf-8", newline="") as fh:
         w = csv.writer(fh)
@@ -238,6 +306,8 @@ def main() -> None:
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "pairs": len(rows),
         "conflicts": len(conflicts),
+        "seasons": len(season_index),
+        "undated_rows": undated,
         "by_source": {
             "extlinker": sum(1 for r in rows if r["source"] == "extlinker"),
             "bangumi-data": sum(1 for r in rows if r["source"] == "bangumi-data"),
@@ -250,7 +320,8 @@ def main() -> None:
         "conflict_policy": "BangumiExtLinker wins; the rejected MAL id is kept in conflicts.json",
         "endpoints": {
             "full": "bangumi-mal.min.json",
-            "sharded": "shards/<bangumi_id % 100>.json"
+            "sharded": "shards/<bangumi_id % 100>.json",
+            "seasons": "seasons/<year>/<MM>.json (MM = 01/04/07/10), listed in seasons/index.json"
         },
     }
     dump("meta.json", meta, 1)

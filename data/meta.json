@@ -8,12 +8,15 @@
  "conflicts": 77,
  "endpoints": {
   "full": "bangumi-mal.min.json",
+  "seasons": "seasons/<year>/<MM>.json (MM = 01/04/07/10), listed in seasons/index.json",
   "sharded": "shards/<bangumi_id % 100>.json"
  },
- "generated_at": "2026-10-19T03:31:48Z",
+ "generated_at": "2026-10-19T03:49:53Z",
  "pairs": 13270,
+ "seasons": 328,
  "sources": {
   "BangumiExtLinker": "https://github.com/Rhilip/BangumiExtLinker",
   "bangumi-data": "https://github.com/bangumi-data/bangumi-data"
- }
+ },
+ "undated_rows": 54
 }

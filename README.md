@@ -38,6 +38,8 @@ query ($mal: Int) { Media(idMal: $mal, type: ANIME) { id title { native romaji }
 | `data/bangumi-mal.min.json` | `{"<bangumi_id>": <mal_id>}` 全量紧凑表 | ~200 KB |
 | `data/bangumi-mal.json` | 同上，每行一条便于 diff | ~200 KB |
 | `data/shards/<n>.json` | **按 `bangumi_id % 100` 分片的按需查询**，单片 ~2 KB | 100 个文件 |
+| `data/seasons/<年>/<季>.json` | **按季输出**，只含该季番剧的完整记录（`<季>` = `01/04/07/10`） | 328 个文件 |
+| `data/seasons/index.json` | 有数据的季度清单 + 每季数量 | ~19 KB |
 | `data/bangumi-mal.records.json` | 完整记录（含标题、开播时间、来源标记） | ~2.8 MB |
 | `data/bangumi-mal.csv` | 同上，CSV | ~1.2 MB |
 | `data/mal-bangumi.json` | 反查 `{"<mal_id>": [<bangumi_id>, ...]}` | ~250 KB |
@@ -66,6 +68,20 @@ import json, urllib.request
 M = json.load(urllib.request.urlopen("https://linkpass888.github.io/bangumi-mal/data/bangumi-mal.min.json"))
 mal_id = M.get("8")   # 2904
 ```
+
+```js
+// 按季拉取（例：2024 年 10 月新番）：只有该季的番，记录完整
+const season = await (await fetch('https://linkpass888.github.io/bangumi-mal/data/seasons/2024/10.json')).json();
+season.season;                 // "2024-10"
+season.count;                  // 148
+for (const [bgmId, rec] of Object.entries(season.items)) {
+  rec.mal_id; rec.title_native; rec.title_cn; rec.begin; rec.broadcast;
+}
+```
+
+季度边界按 **JST（UTC+9）** 判定，因为 bangumi-data 的 `begin` 是 UTC：深夜档 `2024-10-01 00:30 JST`
+存成 `2024-09-30T15:30Z`，按原始 UTC 月份会被归错季（全量有 149 行属于这种情况）。
+`begin` 只有年月或为 `null` 的记录会退化成按年月判定 / 不进任何季度（54 行）。
 
 要标题 / 开播时间就拉 `bangumi-mal.records.json`：
 
