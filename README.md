@@ -42,6 +42,7 @@ query ($mal: Int) { Media(idMal: $mal, type: ANIME) { id title { native romaji }
 | `data/bangumi-mal.csv` | 同上，CSV | ~1 MB |
 | `data/mal-bangumi.json` | 反查 `{"<mal_id>": [<bangumi_id>, ...]}` | ~250 KB |
 | `data/conflicts.json` | 77 条两家不一致的记录 | ~21 KB |
+| `data/no-anilist.json` | AniList 查不到的 1,298 个 MAL id 名单（见下） | ~16 KB |
 | `data/meta.json` | 生成时间 + 各项计数 | — |
 
 ### 用法
@@ -75,6 +76,25 @@ mal_id = M.get("8")   # 2904
 
 `source` 取值：`both`（两家一致）/ `extlinker` / `bangumi-data`（只有这家有）。
 `conflict: true` 表示两家不一致、已按规则取 BangumiExtLinker 的值，原值在 `alternate_mal_id`。
+
+## 有多少映射在 AniList 里查不到
+
+有一部分 MAL id **真实存在于 MyAnimeList、但在 AniList 没有对应动画条目** —— AniList 基本不收录国产动画，
+日本的总集篇 / 特别篇 / 短篇 OVA / 宣传片也大量缺失。2026-10-19 全量核对（13,080 个 MAL id 逐个查 AniList）：
+
+| | 数量 |
+|---|---:|
+| 映射行总数 | 13,270 |
+| 其中 AniList 查不到 | **1,305 行 / 1,298 个不同 MAL id**（9.9%） |
+| —— 来自「仅 BangumiExtLinker」段 | 1,197 / 4,914（**24.4%**） |
+| —— 来自「仅 bangumi-data」段 | 17 / 946（1.8%） |
+| —— 来自「两家一致」段 | 78 / 7,333（1.1%） |
+
+**这些不是错映射**：抽样 70 条直查 myanimelist.net，只有 2 条是真 404，其余都是标题正常的真实条目；
+按年份分布 <2000 有 23%、2000s 14%、2010s 46%、2020+ 17%，说明是 AniList 的内容盲区而不是年代问题。
+
+名单在 `data/no-anilist.json`（**快照，非每周生成**），客户端要按 AniList 取条目时可以提前跳过。
+注意：ExtLinker 独有的 4,914 条里有近四分之一属于这类，对「喂 AniList」这个用途来说它的增量要打折。
 
 ## 自动更新
 
