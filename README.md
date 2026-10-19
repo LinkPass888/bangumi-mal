@@ -79,7 +79,8 @@ mal_id = M.get("8")   # 2904
 ## 自动更新
 
 [`.github/workflows/update.yml`](.github/workflows/update.yml)：每周一 04:00 UTC（北京时间 12:00）拉取上游、
-重建全部数据文件，**只有内容真的变了才提交**。也可以在 Actions 页面手动 `Run workflow`。
+重建全部数据文件并提交（上游没有变化时，只有 `data/meta.json` 的生成时间会更新）。
+也可以在 Actions 页面手动 `Run workflow`。上游所有地址都拉取失败时任务直接失败，不会写出空数据。
 
 本地重建：
 
