@@ -1,6 +1,6 @@
 {
- "count": 437,
- "rows": 20752,
+ "count": 453,
+ "rows": 24062,
  "seasons": {
   "1877-01": {
    "count": 1,
@@ -15,12 +15,16 @@
    "file": "1892/10.json"
   },
   "1894-10": {
-   "count": 2,
+   "count": 1,
    "file": "1894/10.json"
   },
   "1898-01": {
    "count": 1,
    "file": "1898/01.json"
+  },
+  "1899-01": {
+   "count": 1,
+   "file": "1899/01.json"
   },
   "1900-10": {
    "count": 1,
@@ -30,14 +34,6 @@
    "count": 1,
    "file": "1906/04.json"
   },
-  "1907-01": {
-   "count": 1,
-   "file": "1907/01.json"
-  },
-  "1908-01": {
-   "count": 1,
-   "file": "1908/01.json"
-  },
   "1908-07": {
    "count": 1,
    "file": "1908/07.json"
@@ -46,6 +42,26 @@
    "count": 2,
    "file": "1908/10.json"
   },
+  "1909-07": {
+   "count": 3,
+   "file": "1909/07.json"
+  },
+  "1909-10": {
+   "count": 1,
+   "file": "1909/10.json"
+  },
+  "1910-04": {
+   "count": 3,
+   "file": "1910/04.json"
+  },
+  "1910-07": {
+   "count": 3,
+   "file": "1910/07.json"
+  },
+  "1910-10": {
+   "count": 1,
+   "file": "1910/10.json"
+  },
   "1911-04": {
    "count": 1,
    "file": "1911/04.json"
@@ -53,6 +69,10 @@
   "1912-01": {
    "count": 2,
    "file": "1912/01.json"
+  },
+  "1912-04": {
+   "count": 1,
+   "file": "1912/04.json"
   },
   "1912-10": {
    "count": 1,
@@ -83,11 +103,11 @@
    "file": "1916/10.json"
   },
   "1917-01": {
-   "count": 5,
+   "count": 1,
    "file": "1917/01.json"
   },
   "1917-04": {
-   "count": 7,
+   "count": 4,
    "file": "1917/04.json"
   },
   "1917-07": {
@@ -99,7 +119,7 @@
    "file": "1917/10.json"
   },
   "1918-01": {
-   "count": 9,
+   "count": 10,
    "file": "1918/01.json"
   },
   "1918-04": {
@@ -114,40 +134,52 @@
    "count": 1,
    "file": "1919/10.json"
   },
+  "1920-01": {
+   "count": 2,
+   "file": "1920/01.json"
+  },
   "1921-01": {
    "count": 2,
    "file": "1921/01.json"
   },
+  "1921-07": {
+   "count": 1,
+   "file": "1921/07.json"
+  },
+  "1921-10": {
+   "count": 1,
+   "file": "1921/10.json"
+  },
   "1922-01": {
-   "count": 3,
+   "count": 2,
    "file": "1922/01.json"
   },
   "1923-01": {
-   "count": 4,
+   "count": 1,
    "file": "1923/01.json"
+  },
+  "1923-04": {
+   "count": 1,
+   "file": "1923/04.json"
   },
   "1923-07": {
    "count": 1,
    "file": "1923/07.json"
   },
   "1924-01": {
-   "count": 9,
+   "count": 4,
    "file": "1924/01.json"
   },
-  "1924-07": {
+  "1924-04": {
    "count": 1,
-   "file": "1924/07.json"
+   "file": "1924/04.json"
   },
   "1925-01": {
-   "count": 7,
+   "count": 1,
    "file": "1925/01.json"
   },
-  "1925-07": {
-   "count": 1,
-   "file": "1925/07.json"
-  },
   "1926-01": {
-   "count": 7,
+   "count": 3,
    "file": "1926/01.json"
   },
   "1926-04": {
@@ -159,27 +191,23 @@
    "file": "1926/07.json"
   },
   "1926-10": {
-   "count": 2,
+   "count": 3,
    "file": "1926/10.json"
   },
   "1927-01": {
-   "count": 7,
+   "count": 3,
    "file": "1927/01.json"
   },
-  "1927-04": {
-   "count": 1,
-   "file": "1927/04.json"
-  },
   "1927-07": {
-   "count": 2,
+   "count": 3,
    "file": "1927/07.json"
   },
   "1927-10": {
-   "count": 4,
+   "count": 3,
    "file": "1927/10.json"
   },
   "1928-01": {
-   "count": 8,
+   "count": 3,
    "file": "1928/01.json"
   },
   "1928-04": {
@@ -187,23 +215,23 @@
    "file": "1928/04.json"
   },
   "1928-07": {
-   "count": 5,
+   "count": 2,
    "file": "1928/07.json"
   },
   "1928-10": {
-   "count": 3,
+   "count": 4,
    "file": "1928/10.json"
   },
   "1929-01": {
-   "count": 15,
+   "count": 13,
    "file": "1929/01.json"
   },
   "1929-04": {
-   "count": 4,
+   "count": 3,
    "file": "1929/04.json"
   },
   "1929-07": {
-   "count": 3,
+   "count": 4,
    "file": "1929/07.json"
   },
   "1929-10": {
@@ -211,31 +239,31 @@
    "file": "1929/10.json"
   },
   "1930-01": {
-   "count": 16,
+   "count": 13,
    "file": "1930/01.json"
   },
   "1930-04": {
-   "count": 3,
+   "count": 5,
    "file": "1930/04.json"
   },
   "1930-07": {
-   "count": 5,
+   "count": 7,
    "file": "1930/07.json"
   },
   "1930-10": {
-   "count": 4,
+   "count": 5,
    "file": "1930/10.json"
   },
   "1931-01": {
-   "count": 18,
+   "count": 16,
    "file": "1931/01.json"
   },
   "1931-04": {
-   "count": 4,
+   "count": 7,
    "file": "1931/04.json"
   },
   "1931-07": {
-   "count": 2,
+   "count": 5,
    "file": "1931/07.json"
   },
   "1931-10": {
@@ -243,43 +271,43 @@
    "file": "1931/10.json"
   },
   "1932-01": {
-   "count": 12,
+   "count": 10,
    "file": "1932/01.json"
   },
   "1932-04": {
-   "count": 2,
+   "count": 3,
    "file": "1932/04.json"
   },
   "1932-07": {
-   "count": 6,
+   "count": 8,
    "file": "1932/07.json"
   },
   "1932-10": {
-   "count": 6,
+   "count": 8,
    "file": "1932/10.json"
   },
   "1933-01": {
-   "count": 22,
+   "count": 19,
    "file": "1933/01.json"
   },
   "1933-04": {
-   "count": 4,
+   "count": 5,
    "file": "1933/04.json"
   },
   "1933-07": {
-   "count": 6,
+   "count": 7,
    "file": "1933/07.json"
   },
   "1933-10": {
-   "count": 3,
+   "count": 4,
    "file": "1933/10.json"
   },
   "1934-01": {
-   "count": 8,
+   "count": 15,
    "file": "1934/01.json"
   },
   "1934-04": {
-   "count": 5,
+   "count": 7,
    "file": "1934/04.json"
   },
   "1934-07": {
@@ -291,107 +319,119 @@
    "file": "1934/10.json"
   },
   "1935-01": {
-   "count": 19,
+   "count": 17,
    "file": "1935/01.json"
   },
   "1935-04": {
-   "count": 4,
+   "count": 6,
    "file": "1935/04.json"
   },
   "1935-07": {
-   "count": 2,
+   "count": 6,
    "file": "1935/07.json"
   },
   "1935-10": {
-   "count": 4,
+   "count": 5,
    "file": "1935/10.json"
   },
   "1936-01": {
-   "count": 19,
+   "count": 22,
    "file": "1936/01.json"
   },
   "1936-04": {
-   "count": 5,
+   "count": 6,
    "file": "1936/04.json"
   },
   "1936-07": {
-   "count": 3,
+   "count": 4,
    "file": "1936/07.json"
   },
   "1936-10": {
-   "count": 3,
+   "count": 5,
    "file": "1936/10.json"
   },
   "1937-01": {
-   "count": 7,
+   "count": 21,
    "file": "1937/01.json"
   },
   "1937-04": {
-   "count": 3,
+   "count": 4,
    "file": "1937/04.json"
   },
+  "1937-07": {
+   "count": 1,
+   "file": "1937/07.json"
+  },
   "1937-10": {
-   "count": 4,
+   "count": 6,
    "file": "1937/10.json"
   },
   "1938-01": {
-   "count": 5,
+   "count": 8,
    "file": "1938/01.json"
   },
   "1938-04": {
-   "count": 2,
+   "count": 5,
    "file": "1938/04.json"
   },
   "1938-07": {
-   "count": 4,
+   "count": 6,
    "file": "1938/07.json"
   },
   "1938-10": {
-   "count": 5,
+   "count": 7,
    "file": "1938/10.json"
   },
   "1939-01": {
-   "count": 4,
+   "count": 8,
    "file": "1939/01.json"
   },
   "1939-04": {
-   "count": 3,
+   "count": 4,
    "file": "1939/04.json"
   },
+  "1939-07": {
+   "count": 3,
+   "file": "1939/07.json"
+  },
+  "1939-10": {
+   "count": 2,
+   "file": "1939/10.json"
+  },
   "1940-01": {
-   "count": 5,
+   "count": 9,
    "file": "1940/01.json"
   },
   "1940-04": {
-   "count": 5,
+   "count": 7,
    "file": "1940/04.json"
   },
   "1940-07": {
-   "count": 1,
+   "count": 3,
    "file": "1940/07.json"
   },
   "1940-10": {
-   "count": 2,
+   "count": 3,
    "file": "1940/10.json"
   },
   "1941-01": {
-   "count": 4,
+   "count": 11,
    "file": "1941/01.json"
   },
   "1941-04": {
-   "count": 1,
+   "count": 2,
    "file": "1941/04.json"
   },
   "1941-07": {
-   "count": 6,
+   "count": 7,
    "file": "1941/07.json"
   },
   "1941-10": {
-   "count": 8,
+   "count": 10,
    "file": "1941/10.json"
   },
   "1942-01": {
-   "count": 4,
+   "count": 14,
    "file": "1942/01.json"
   },
   "1942-04": {
@@ -399,275 +439,303 @@
    "file": "1942/04.json"
   },
   "1942-07": {
-   "count": 7,
+   "count": 8,
    "file": "1942/07.json"
   },
   "1942-10": {
-   "count": 3,
+   "count": 7,
    "file": "1942/10.json"
   },
   "1943-01": {
-   "count": 10,
+   "count": 13,
    "file": "1943/01.json"
   },
   "1943-04": {
-   "count": 5,
+   "count": 10,
    "file": "1943/04.json"
   },
   "1943-07": {
-   "count": 2,
+   "count": 6,
    "file": "1943/07.json"
   },
   "1943-10": {
-   "count": 2,
+   "count": 4,
    "file": "1943/10.json"
   },
   "1944-01": {
-   "count": 3,
+   "count": 11,
    "file": "1944/01.json"
   },
   "1944-04": {
-   "count": 3,
+   "count": 6,
    "file": "1944/04.json"
   },
   "1944-07": {
-   "count": 1,
+   "count": 4,
    "file": "1944/07.json"
   },
   "1944-10": {
-   "count": 3,
+   "count": 6,
    "file": "1944/10.json"
   },
   "1945-01": {
-   "count": 6,
+   "count": 14,
    "file": "1945/01.json"
   },
   "1945-04": {
-   "count": 3,
+   "count": 5,
    "file": "1945/04.json"
   },
   "1945-07": {
-   "count": 5,
+   "count": 7,
    "file": "1945/07.json"
   },
   "1945-10": {
-   "count": 2,
+   "count": 3,
    "file": "1945/10.json"
   },
   "1946-01": {
-   "count": 6,
+   "count": 8,
    "file": "1946/01.json"
   },
   "1946-04": {
-   "count": 3,
+   "count": 4,
    "file": "1946/04.json"
   },
   "1946-07": {
-   "count": 4,
+   "count": 5,
    "file": "1946/07.json"
   },
   "1946-10": {
-   "count": 2,
+   "count": 4,
    "file": "1946/10.json"
   },
   "1947-01": {
-   "count": 9,
+   "count": 11,
    "file": "1947/01.json"
   },
   "1947-04": {
-   "count": 3,
+   "count": 4,
    "file": "1947/04.json"
   },
   "1947-07": {
-   "count": 5,
+   "count": 8,
    "file": "1947/07.json"
   },
   "1947-10": {
-   "count": 2,
+   "count": 5,
    "file": "1947/10.json"
   },
   "1948-01": {
-   "count": 4,
+   "count": 6,
    "file": "1948/01.json"
   },
   "1948-04": {
-   "count": 3,
+   "count": 6,
    "file": "1948/04.json"
   },
   "1948-07": {
-   "count": 4,
+   "count": 5,
    "file": "1948/07.json"
   },
   "1948-10": {
-   "count": 2,
+   "count": 5,
    "file": "1948/10.json"
   },
   "1949-01": {
-   "count": 13,
+   "count": 19,
    "file": "1949/01.json"
   },
   "1949-04": {
-   "count": 7,
+   "count": 9,
    "file": "1949/04.json"
   },
   "1949-07": {
-   "count": 3,
+   "count": 7,
    "file": "1949/07.json"
   },
   "1949-10": {
-   "count": 7,
+   "count": 9,
    "file": "1949/10.json"
   },
   "1950-01": {
-   "count": 7,
+   "count": 11,
    "file": "1950/01.json"
   },
-  "1950-07": {
+  "1950-04": {
    "count": 3,
+   "file": "1950/04.json"
+  },
+  "1950-07": {
+   "count": 6,
    "file": "1950/07.json"
   },
   "1950-10": {
-   "count": 1,
+   "count": 5,
    "file": "1950/10.json"
   },
   "1951-01": {
-   "count": 6,
+   "count": 14,
    "file": "1951/01.json"
   },
   "1951-04": {
-   "count": 2,
+   "count": 6,
    "file": "1951/04.json"
   },
   "1951-07": {
-   "count": 1,
+   "count": 5,
    "file": "1951/07.json"
   },
   "1951-10": {
-   "count": 2,
+   "count": 5,
    "file": "1951/10.json"
   },
   "1952-01": {
-   "count": 9,
+   "count": 17,
    "file": "1952/01.json"
   },
-  "1952-07": {
+  "1952-04": {
    "count": 3,
+   "file": "1952/04.json"
+  },
+  "1952-07": {
+   "count": 9,
    "file": "1952/07.json"
   },
   "1952-10": {
-   "count": 2,
+   "count": 7,
    "file": "1952/10.json"
   },
   "1953-01": {
-   "count": 11,
+   "count": 10,
    "file": "1953/01.json"
   },
   "1953-04": {
-   "count": 1,
+   "count": 8,
    "file": "1953/04.json"
   },
   "1953-07": {
-   "count": 2,
+   "count": 6,
    "file": "1953/07.json"
   },
   "1953-10": {
-   "count": 4,
+   "count": 9,
    "file": "1953/10.json"
   },
   "1954-01": {
-   "count": 5,
+   "count": 7,
    "file": "1954/01.json"
   },
   "1954-04": {
-   "count": 1,
+   "count": 5,
    "file": "1954/04.json"
   },
   "1954-07": {
-   "count": 2,
+   "count": 11,
    "file": "1954/07.json"
   },
   "1954-10": {
-   "count": 4,
+   "count": 9,
    "file": "1954/10.json"
   },
   "1955-01": {
-   "count": 11,
+   "count": 7,
    "file": "1955/01.json"
   },
   "1955-04": {
-   "count": 3,
+   "count": 8,
    "file": "1955/04.json"
   },
   "1955-07": {
-   "count": 3,
+   "count": 6,
    "file": "1955/07.json"
   },
   "1955-10": {
-   "count": 3,
+   "count": 11,
    "file": "1955/10.json"
   },
   "1956-01": {
-   "count": 10,
+   "count": 8,
    "file": "1956/01.json"
   },
+  "1956-04": {
+   "count": 4,
+   "file": "1956/04.json"
+  },
   "1956-07": {
-   "count": 1,
+   "count": 3,
    "file": "1956/07.json"
   },
+  "1956-10": {
+   "count": 5,
+   "file": "1956/10.json"
+  },
   "1957-01": {
-   "count": 8,
+   "count": 11,
    "file": "1957/01.json"
   },
+  "1957-04": {
+   "count": 4,
+   "file": "1957/04.json"
+  },
   "1957-07": {
-   "count": 2,
+   "count": 8,
    "file": "1957/07.json"
   },
   "1957-10": {
-   "count": 2,
+   "count": 8,
    "file": "1957/10.json"
   },
   "1958-01": {
-   "count": 30,
+   "count": 9,
    "file": "1958/01.json"
   },
   "1958-04": {
-   "count": 2,
+   "count": 6,
    "file": "1958/04.json"
   },
   "1958-07": {
-   "count": 3,
+   "count": 5,
    "file": "1958/07.json"
   },
   "1958-10": {
-   "count": 1,
+   "count": 2,
    "file": "1958/10.json"
   },
   "1959-01": {
-   "count": 28,
+   "count": 12,
    "file": "1959/01.json"
   },
   "1959-04": {
-   "count": 3,
+   "count": 6,
    "file": "1959/04.json"
   },
+  "1959-07": {
+   "count": 4,
+   "file": "1959/07.json"
+  },
   "1959-10": {
-   "count": 2,
+   "count": 4,
    "file": "1959/10.json"
   },
   "1960-01": {
-   "count": 27,
+   "count": 12,
    "file": "1960/01.json"
   },
   "1960-04": {
-   "count": 1,
+   "count": 2,
    "file": "1960/04.json"
   },
   "1960-07": {
    "count": 2,
    "file": "1960/07.json"
   },
+  "1960-10": {
+   "count": 2,
+   "file": "1960/10.json"
+  },
   "1961-01": {
-   "count": 11,
+   "count": 12,
    "file": "1961/01.json"
   },
   "1961-04": {
@@ -675,63 +743,63 @@
    "file": "1961/04.json"
   },
   "1961-07": {
-   "count": 2,
+   "count": 6,
    "file": "1961/07.json"
   },
   "1961-10": {
-   "count": 2,
+   "count": 7,
    "file": "1961/10.json"
   },
   "1962-01": {
-   "count": 19,
+   "count": 11,
    "file": "1962/01.json"
   },
   "1962-04": {
-   "count": 3,
+   "count": 8,
    "file": "1962/04.json"
   },
   "1962-07": {
-   "count": 1,
+   "count": 7,
    "file": "1962/07.json"
   },
   "1962-10": {
-   "count": 2,
+   "count": 7,
    "file": "1962/10.json"
   },
   "1963-01": {
-   "count": 15,
+   "count": 11,
    "file": "1963/01.json"
   },
   "1963-04": {
-   "count": 3,
+   "count": 6,
    "file": "1963/04.json"
   },
   "1963-07": {
-   "count": 2,
+   "count": 5,
    "file": "1963/07.json"
   },
   "1963-10": {
-   "count": 7,
+   "count": 8,
    "file": "1963/10.json"
   },
   "1964-01": {
-   "count": 25,
+   "count": 21,
    "file": "1964/01.json"
   },
   "1964-04": {
-   "count": 4,
+   "count": 6,
    "file": "1964/04.json"
   },
   "1964-07": {
-   "count": 2,
+   "count": 6,
    "file": "1964/07.json"
   },
   "1964-10": {
-   "count": 2,
+   "count": 5,
    "file": "1964/10.json"
   },
   "1965-01": {
-   "count": 36,
+   "count": 22,
    "file": "1965/01.json"
   },
   "1965-04": {
@@ -739,95 +807,95 @@
    "file": "1965/04.json"
   },
   "1965-07": {
-   "count": 2,
+   "count": 4,
    "file": "1965/07.json"
   },
   "1965-10": {
-   "count": 8,
+   "count": 10,
    "file": "1965/10.json"
   },
   "1966-01": {
-   "count": 20,
+   "count": 21,
    "file": "1966/01.json"
   },
   "1966-04": {
-   "count": 8,
+   "count": 10,
    "file": "1966/04.json"
   },
   "1966-07": {
-   "count": 12,
+   "count": 17,
    "file": "1966/07.json"
   },
   "1966-10": {
-   "count": 7,
+   "count": 12,
    "file": "1966/10.json"
   },
   "1967-01": {
-   "count": 20,
+   "count": 26,
    "file": "1967/01.json"
   },
   "1967-04": {
-   "count": 6,
+   "count": 11,
    "file": "1967/04.json"
   },
   "1967-07": {
-   "count": 11,
+   "count": 15,
    "file": "1967/07.json"
   },
   "1967-10": {
-   "count": 6,
+   "count": 8,
    "file": "1967/10.json"
   },
   "1968-01": {
-   "count": 34,
+   "count": 31,
    "file": "1968/01.json"
   },
   "1968-04": {
-   "count": 6,
+   "count": 8,
    "file": "1968/04.json"
   },
   "1968-07": {
-   "count": 10,
+   "count": 11,
    "file": "1968/07.json"
   },
   "1968-10": {
-   "count": 8,
+   "count": 9,
    "file": "1968/10.json"
   },
   "1969-01": {
-   "count": 22,
+   "count": 27,
    "file": "1969/01.json"
   },
   "1969-04": {
-   "count": 7,
+   "count": 8,
    "file": "1969/04.json"
   },
   "1969-07": {
-   "count": 5,
+   "count": 8,
    "file": "1969/07.json"
   },
   "1969-10": {
-   "count": 11,
+   "count": 15,
    "file": "1969/10.json"
   },
   "1970-01": {
-   "count": 19,
+   "count": 24,
    "file": "1970/01.json"
   },
   "1970-04": {
-   "count": 6,
+   "count": 7,
    "file": "1970/04.json"
   },
   "1970-07": {
-   "count": 7,
+   "count": 11,
    "file": "1970/07.json"
   },
   "1970-10": {
-   "count": 10,
+   "count": 12,
    "file": "1970/10.json"
   },
   "1971-01": {
-   "count": 26,
+   "count": 24,
    "file": "1971/01.json"
   },
   "1971-04": {
@@ -835,7 +903,7 @@
    "file": "1971/04.json"
   },
   "1971-07": {
-   "count": 8,
+   "count": 10,
    "file": "1971/07.json"
   },
   "1971-10": {
@@ -843,7 +911,7 @@
    "file": "1971/10.json"
   },
   "1972-01": {
-   "count": 23,
+   "count": 25,
    "file": "1972/01.json"
   },
   "1972-04": {
@@ -851,35 +919,35 @@
    "file": "1972/04.json"
   },
   "1972-07": {
-   "count": 4,
+   "count": 7,
    "file": "1972/07.json"
   },
   "1972-10": {
-   "count": 9,
+   "count": 10,
    "file": "1972/10.json"
   },
   "1973-01": {
-   "count": 20,
+   "count": 19,
    "file": "1973/01.json"
   },
   "1973-04": {
-   "count": 8,
+   "count": 9,
    "file": "1973/04.json"
   },
   "1973-07": {
-   "count": 4,
+   "count": 7,
    "file": "1973/07.json"
   },
   "1973-10": {
-   "count": 11,
+   "count": 13,
    "file": "1973/10.json"
   },
   "1974-01": {
-   "count": 21,
+   "count": 23,
    "file": "1974/01.json"
   },
   "1974-04": {
-   "count": 11,
+   "count": 10,
    "file": "1974/04.json"
   },
   "1974-07": {
@@ -887,107 +955,107 @@
    "file": "1974/07.json"
   },
   "1974-10": {
-   "count": 10,
+   "count": 11,
    "file": "1974/10.json"
   },
   "1975-01": {
-   "count": 23,
+   "count": 20,
    "file": "1975/01.json"
   },
   "1975-04": {
-   "count": 7,
+   "count": 9,
    "file": "1975/04.json"
   },
   "1975-07": {
-   "count": 7,
+   "count": 9,
    "file": "1975/07.json"
   },
   "1975-10": {
-   "count": 13,
+   "count": 11,
    "file": "1975/10.json"
   },
   "1976-01": {
-   "count": 27,
+   "count": 16,
    "file": "1976/01.json"
   },
   "1976-04": {
-   "count": 9,
+   "count": 14,
    "file": "1976/04.json"
   },
   "1976-07": {
-   "count": 9,
+   "count": 12,
    "file": "1976/07.json"
   },
   "1976-10": {
-   "count": 12,
+   "count": 14,
    "file": "1976/10.json"
   },
   "1977-01": {
-   "count": 29,
+   "count": 20,
    "file": "1977/01.json"
   },
   "1977-04": {
-   "count": 10,
+   "count": 12,
    "file": "1977/04.json"
   },
   "1977-07": {
-   "count": 12,
+   "count": 15,
    "file": "1977/07.json"
   },
   "1977-10": {
-   "count": 18,
+   "count": 21,
    "file": "1977/10.json"
   },
   "1978-01": {
-   "count": 31,
+   "count": 28,
    "file": "1978/01.json"
   },
   "1978-04": {
-   "count": 7,
+   "count": 9,
    "file": "1978/04.json"
   },
   "1978-07": {
-   "count": 12,
+   "count": 17,
    "file": "1978/07.json"
   },
   "1978-10": {
-   "count": 15,
+   "count": 16,
    "file": "1978/10.json"
   },
   "1979-01": {
-   "count": 41,
+   "count": 31,
    "file": "1979/01.json"
   },
   "1979-04": {
-   "count": 13,
+   "count": 14,
    "file": "1979/04.json"
   },
   "1979-07": {
-   "count": 18,
+   "count": 26,
    "file": "1979/07.json"
   },
   "1979-10": {
-   "count": 16,
+   "count": 20,
    "file": "1979/10.json"
   },
   "1980-01": {
-   "count": 47,
+   "count": 32,
    "file": "1980/01.json"
   },
   "1980-04": {
-   "count": 15,
+   "count": 18,
    "file": "1980/04.json"
   },
   "1980-07": {
-   "count": 17,
+   "count": 20,
    "file": "1980/07.json"
   },
   "1980-10": {
-   "count": 12,
+   "count": 15,
    "file": "1980/10.json"
   },
   "1981-01": {
-   "count": 50,
+   "count": 35,
    "file": "1981/01.json"
   },
   "1981-04": {
@@ -995,347 +1063,347 @@
    "file": "1981/04.json"
   },
   "1981-07": {
-   "count": 27,
+   "count": 33,
    "file": "1981/07.json"
   },
   "1981-10": {
-   "count": 18,
+   "count": 21,
    "file": "1981/10.json"
   },
   "1982-01": {
-   "count": 48,
+   "count": 40,
    "file": "1982/01.json"
   },
   "1982-04": {
-   "count": 17,
+   "count": 20,
    "file": "1982/04.json"
   },
   "1982-07": {
-   "count": 14,
+   "count": 19,
    "file": "1982/07.json"
   },
   "1982-10": {
-   "count": 22,
+   "count": 24,
    "file": "1982/10.json"
   },
   "1983-01": {
-   "count": 47,
+   "count": 34,
    "file": "1983/01.json"
   },
   "1983-04": {
-   "count": 19,
+   "count": 20,
    "file": "1983/04.json"
   },
   "1983-07": {
-   "count": 25,
+   "count": 30,
    "file": "1983/07.json"
   },
   "1983-10": {
-   "count": 17,
+   "count": 18,
    "file": "1983/10.json"
   },
   "1984-01": {
-   "count": 48,
+   "count": 40,
    "file": "1984/01.json"
   },
   "1984-04": {
-   "count": 11,
+   "count": 13,
    "file": "1984/04.json"
   },
   "1984-07": {
-   "count": 28,
+   "count": 30,
    "file": "1984/07.json"
   },
   "1984-10": {
-   "count": 20,
+   "count": 23,
    "file": "1984/10.json"
   },
   "1985-01": {
-   "count": 63,
+   "count": 48,
    "file": "1985/01.json"
   },
   "1985-04": {
-   "count": 18,
+   "count": 21,
    "file": "1985/04.json"
   },
   "1985-07": {
-   "count": 38,
+   "count": 41,
    "file": "1985/07.json"
   },
   "1985-10": {
-   "count": 30,
+   "count": 36,
    "file": "1985/10.json"
   },
   "1986-01": {
-   "count": 47,
+   "count": 43,
    "file": "1986/01.json"
   },
   "1986-04": {
-   "count": 31,
+   "count": 34,
    "file": "1986/04.json"
   },
   "1986-07": {
-   "count": 38,
+   "count": 45,
    "file": "1986/07.json"
   },
   "1986-10": {
-   "count": 34,
+   "count": 36,
    "file": "1986/10.json"
   },
   "1987-01": {
-   "count": 57,
+   "count": 51,
    "file": "1987/01.json"
   },
   "1987-04": {
-   "count": 23,
+   "count": 27,
    "file": "1987/04.json"
   },
   "1987-07": {
-   "count": 36,
+   "count": 42,
    "file": "1987/07.json"
   },
   "1987-10": {
-   "count": 40,
+   "count": 50,
    "file": "1987/10.json"
   },
   "1988-01": {
-   "count": 77,
+   "count": 64,
    "file": "1988/01.json"
   },
   "1988-04": {
-   "count": 28,
+   "count": 35,
    "file": "1988/04.json"
   },
   "1988-07": {
-   "count": 32,
+   "count": 36,
    "file": "1988/07.json"
   },
   "1988-10": {
-   "count": 38,
+   "count": 40,
    "file": "1988/10.json"
   },
   "1989-01": {
-   "count": 62,
+   "count": 42,
    "file": "1989/01.json"
   },
   "1989-04": {
-   "count": 32,
+   "count": 33,
    "file": "1989/04.json"
   },
   "1989-07": {
-   "count": 41,
+   "count": 53,
    "file": "1989/07.json"
   },
   "1989-10": {
-   "count": 59,
+   "count": 64,
    "file": "1989/10.json"
   },
   "1990-01": {
-   "count": 55,
+   "count": 44,
    "file": "1990/01.json"
   },
   "1990-04": {
-   "count": 37,
+   "count": 43,
    "file": "1990/04.json"
   },
   "1990-07": {
-   "count": 47,
+   "count": 52,
    "file": "1990/07.json"
   },
   "1990-10": {
-   "count": 37,
+   "count": 41,
    "file": "1990/10.json"
   },
   "1991-01": {
-   "count": 67,
+   "count": 51,
    "file": "1991/01.json"
   },
   "1991-04": {
-   "count": 44,
+   "count": 47,
    "file": "1991/04.json"
   },
   "1991-07": {
-   "count": 55,
+   "count": 62,
    "file": "1991/07.json"
   },
   "1991-10": {
-   "count": 52,
+   "count": 56,
    "file": "1991/10.json"
   },
   "1992-01": {
-   "count": 57,
+   "count": 42,
    "file": "1992/01.json"
   },
   "1992-04": {
-   "count": 37,
+   "count": 40,
    "file": "1992/04.json"
   },
   "1992-07": {
-   "count": 62,
+   "count": 70,
    "file": "1992/07.json"
   },
   "1992-10": {
-   "count": 53,
+   "count": 58,
    "file": "1992/10.json"
   },
   "1993-01": {
-   "count": 59,
+   "count": 41,
    "file": "1993/01.json"
   },
   "1993-04": {
-   "count": 30,
+   "count": 33,
    "file": "1993/04.json"
   },
   "1993-07": {
-   "count": 50,
+   "count": 55,
    "file": "1993/07.json"
   },
   "1993-10": {
-   "count": 46,
+   "count": 57,
    "file": "1993/10.json"
   },
   "1994-01": {
-   "count": 53,
+   "count": 46,
    "file": "1994/01.json"
   },
   "1994-04": {
-   "count": 38,
+   "count": 39,
    "file": "1994/04.json"
   },
   "1994-07": {
-   "count": 56,
+   "count": 63,
    "file": "1994/07.json"
   },
   "1994-10": {
-   "count": 41,
+   "count": 43,
    "file": "1994/10.json"
   },
   "1995-01": {
-   "count": 42,
+   "count": 36,
    "file": "1995/01.json"
   },
   "1995-04": {
-   "count": 42,
+   "count": 49,
    "file": "1995/04.json"
   },
   "1995-07": {
-   "count": 40,
+   "count": 50,
    "file": "1995/07.json"
   },
   "1995-10": {
-   "count": 48,
+   "count": 57,
    "file": "1995/10.json"
   },
   "1996-01": {
-   "count": 54,
+   "count": 55,
    "file": "1996/01.json"
   },
   "1996-04": {
-   "count": 49,
+   "count": 52,
    "file": "1996/04.json"
   },
   "1996-07": {
-   "count": 47,
+   "count": 51,
    "file": "1996/07.json"
   },
   "1996-10": {
-   "count": 32,
+   "count": 36,
    "file": "1996/10.json"
   },
   "1997-01": {
-   "count": 56,
+   "count": 44,
    "file": "1997/01.json"
   },
   "1997-04": {
-   "count": 42,
+   "count": 43,
    "file": "1997/04.json"
   },
   "1997-07": {
-   "count": 58,
+   "count": 62,
    "file": "1997/07.json"
   },
   "1997-10": {
-   "count": 41,
+   "count": 48,
    "file": "1997/10.json"
   },
   "1998-01": {
-   "count": 66,
+   "count": 47,
    "file": "1998/01.json"
   },
   "1998-04": {
-   "count": 55,
+   "count": 60,
    "file": "1998/04.json"
   },
   "1998-07": {
-   "count": 41,
+   "count": 45,
    "file": "1998/07.json"
   },
   "1998-10": {
-   "count": 58,
+   "count": 65,
    "file": "1998/10.json"
   },
   "1999-01": {
-   "count": 64,
+   "count": 66,
    "file": "1999/01.json"
   },
   "1999-04": {
-   "count": 52,
+   "count": 59,
    "file": "1999/04.json"
   },
   "1999-07": {
-   "count": 60,
+   "count": 66,
    "file": "1999/07.json"
   },
   "1999-10": {
-   "count": 61,
+   "count": 67,
    "file": "1999/10.json"
   },
   "2000-01": {
-   "count": 50,
+   "count": 46,
    "file": "2000/01.json"
   },
   "2000-04": {
-   "count": 52,
+   "count": 58,
    "file": "2000/04.json"
   },
   "2000-07": {
-   "count": 48,
+   "count": 53,
    "file": "2000/07.json"
   },
   "2000-10": {
-   "count": 61,
+   "count": 68,
    "file": "2000/10.json"
   },
   "2001-01": {
-   "count": 65,
+   "count": 61,
    "file": "2001/01.json"
   },
   "2001-04": {
-   "count": 63,
+   "count": 68,
    "file": "2001/04.json"
   },
   "2001-07": {
-   "count": 59,
+   "count": 65,
    "file": "2001/07.json"
   },
   "2001-10": {
-   "count": 75,
+   "count": 89,
    "file": "2001/10.json"
   },
   "2002-01": {
-   "count": 84,
+   "count": 85,
    "file": "2002/01.json"
   },
   "2002-04": {
-   "count": 57,
+   "count": 63,
    "file": "2002/04.json"
   },
   "2002-07": {
-   "count": 53,
+   "count": 60,
    "file": "2002/07.json"
   },
   "2002-10": {
-   "count": 65,
+   "count": 73,
    "file": "2002/10.json"
   },
   "2003-01": {
@@ -1343,413 +1411,409 @@
    "file": "2003/01.json"
   },
   "2003-04": {
-   "count": 71,
+   "count": 81,
    "file": "2003/04.json"
   },
   "2003-07": {
-   "count": 59,
+   "count": 65,
    "file": "2003/07.json"
   },
   "2003-10": {
-   "count": 78,
+   "count": 83,
    "file": "2003/10.json"
   },
   "2004-01": {
-   "count": 80,
+   "count": 79,
    "file": "2004/01.json"
   },
   "2004-04": {
-   "count": 97,
+   "count": 101,
    "file": "2004/04.json"
   },
   "2004-07": {
-   "count": 60,
+   "count": 69,
    "file": "2004/07.json"
   },
   "2004-10": {
-   "count": 80,
+   "count": 89,
    "file": "2004/10.json"
   },
   "2005-01": {
-   "count": 102,
+   "count": 110,
    "file": "2005/01.json"
   },
   "2005-04": {
-   "count": 73,
+   "count": 81,
    "file": "2005/04.json"
   },
   "2005-07": {
-   "count": 66,
+   "count": 77,
    "file": "2005/07.json"
   },
   "2005-10": {
-   "count": 91,
+   "count": 98,
    "file": "2005/10.json"
   },
   "2006-01": {
-   "count": 118,
+   "count": 116,
    "file": "2006/01.json"
   },
   "2006-04": {
-   "count": 106,
+   "count": 115,
    "file": "2006/04.json"
   },
   "2006-07": {
-   "count": 100,
+   "count": 110,
    "file": "2006/07.json"
   },
   "2006-10": {
-   "count": 99,
+   "count": 104,
    "file": "2006/10.json"
   },
   "2007-01": {
-   "count": 128,
+   "count": 108,
    "file": "2007/01.json"
   },
   "2007-04": {
-   "count": 103,
+   "count": 106,
    "file": "2007/04.json"
   },
   "2007-07": {
-   "count": 82,
+   "count": 89,
    "file": "2007/07.json"
   },
   "2007-10": {
-   "count": 100,
+   "count": 106,
    "file": "2007/10.json"
   },
   "2008-01": {
-   "count": 119,
+   "count": 101,
    "file": "2008/01.json"
   },
   "2008-04": {
-   "count": 94,
+   "count": 99,
    "file": "2008/04.json"
   },
   "2008-07": {
-   "count": 81,
+   "count": 98,
    "file": "2008/07.json"
   },
   "2008-10": {
-   "count": 109,
+   "count": 124,
    "file": "2008/10.json"
   },
   "2009-01": {
-   "count": 134,
+   "count": 110,
    "file": "2009/01.json"
   },
   "2009-04": {
-   "count": 110,
+   "count": 119,
    "file": "2009/04.json"
   },
   "2009-07": {
-   "count": 99,
+   "count": 111,
    "file": "2009/07.json"
   },
   "2009-10": {
-   "count": 112,
+   "count": 125,
    "file": "2009/10.json"
   },
   "2010-01": {
-   "count": 140,
+   "count": 142,
    "file": "2010/01.json"
   },
   "2010-04": {
-   "count": 116,
+   "count": 119,
    "file": "2010/04.json"
   },
   "2010-07": {
-   "count": 106,
+   "count": 125,
    "file": "2010/07.json"
   },
   "2010-10": {
-   "count": 133,
+   "count": 155,
    "file": "2010/10.json"
   },
   "2011-01": {
-   "count": 165,
+   "count": 183,
    "file": "2011/01.json"
   },
   "2011-04": {
-   "count": 139,
+   "count": 141,
    "file": "2011/04.json"
   },
   "2011-07": {
-   "count": 114,
+   "count": 127,
    "file": "2011/07.json"
   },
   "2011-10": {
-   "count": 132,
+   "count": 149,
    "file": "2011/10.json"
   },
   "2012-01": {
-   "count": 169,
+   "count": 172,
    "file": "2012/01.json"
   },
   "2012-04": {
-   "count": 137,
+   "count": 155,
    "file": "2012/04.json"
   },
   "2012-07": {
-   "count": 154,
+   "count": 165,
    "file": "2012/07.json"
   },
   "2012-10": {
-   "count": 152,
+   "count": 168,
    "file": "2012/10.json"
   },
   "2013-01": {
-   "count": 183,
+   "count": 190,
    "file": "2013/01.json"
   },
   "2013-04": {
-   "count": 136,
+   "count": 154,
    "file": "2013/04.json"
   },
   "2013-07": {
-   "count": 164,
+   "count": 181,
    "file": "2013/07.json"
   },
   "2013-10": {
-   "count": 146,
+   "count": 165,
    "file": "2013/10.json"
   },
   "2014-01": {
-   "count": 199,
+   "count": 226,
    "file": "2014/01.json"
   },
   "2014-04": {
-   "count": 170,
+   "count": 188,
    "file": "2014/04.json"
   },
   "2014-07": {
-   "count": 161,
+   "count": 177,
    "file": "2014/07.json"
   },
   "2014-10": {
-   "count": 170,
+   "count": 199,
    "file": "2014/10.json"
   },
   "2015-01": {
-   "count": 161,
+   "count": 187,
    "file": "2015/01.json"
   },
   "2015-04": {
-   "count": 153,
+   "count": 174,
    "file": "2015/04.json"
   },
   "2015-07": {
-   "count": 199,
+   "count": 225,
    "file": "2015/07.json"
   },
   "2015-10": {
-   "count": 208,
+   "count": 233,
    "file": "2015/10.json"
   },
   "2016-01": {
-   "count": 219,
+   "count": 252,
    "file": "2016/01.json"
   },
   "2016-04": {
-   "count": 214,
+   "count": 240,
    "file": "2016/04.json"
   },
   "2016-07": {
-   "count": 208,
+   "count": 235,
    "file": "2016/07.json"
   },
   "2016-10": {
-   "count": 224,
+   "count": 260,
    "file": "2016/10.json"
   },
   "2017-01": {
-   "count": 210,
+   "count": 236,
    "file": "2017/01.json"
   },
   "2017-04": {
-   "count": 256,
+   "count": 290,
    "file": "2017/04.json"
   },
   "2017-07": {
-   "count": 234,
+   "count": 261,
    "file": "2017/07.json"
   },
   "2017-10": {
-   "count": 216,
+   "count": 241,
    "file": "2017/10.json"
   },
   "2018-01": {
-   "count": 211,
+   "count": 225,
    "file": "2018/01.json"
   },
   "2018-04": {
-   "count": 201,
+   "count": 240,
    "file": "2018/04.json"
   },
   "2018-07": {
-   "count": 210,
+   "count": 238,
    "file": "2018/07.json"
   },
   "2018-10": {
-   "count": 206,
+   "count": 241,
    "file": "2018/10.json"
   },
   "2019-01": {
-   "count": 201,
+   "count": 236,
    "file": "2019/01.json"
   },
   "2019-04": {
-   "count": 178,
+   "count": 198,
    "file": "2019/04.json"
   },
   "2019-07": {
-   "count": 193,
+   "count": 225,
    "file": "2019/07.json"
   },
   "2019-10": {
-   "count": 218,
+   "count": 254,
    "file": "2019/10.json"
   },
   "2020-01": {
-   "count": 214,
+   "count": 251,
    "file": "2020/01.json"
   },
   "2020-04": {
-   "count": 163,
+   "count": 190,
    "file": "2020/04.json"
   },
   "2020-07": {
-   "count": 176,
+   "count": 199,
    "file": "2020/07.json"
   },
   "2020-10": {
-   "count": 217,
+   "count": 242,
    "file": "2020/10.json"
   },
   "2021-01": {
-   "count": 221,
+   "count": 237,
    "file": "2021/01.json"
   },
   "2021-04": {
-   "count": 198,
+   "count": 238,
    "file": "2021/04.json"
   },
   "2021-07": {
-   "count": 221,
+   "count": 254,
    "file": "2021/07.json"
   },
   "2021-10": {
-   "count": 230,
+   "count": 266,
    "file": "2021/10.json"
   },
   "2022-01": {
-   "count": 214,
+   "count": 254,
    "file": "2022/01.json"
   },
   "2022-04": {
-   "count": 204,
+   "count": 244,
    "file": "2022/04.json"
   },
   "2022-07": {
-   "count": 248,
+   "count": 303,
    "file": "2022/07.json"
   },
   "2022-10": {
-   "count": 222,
+   "count": 273,
    "file": "2022/10.json"
   },
   "2023-01": {
-   "count": 220,
+   "count": 264,
    "file": "2023/01.json"
   },
   "2023-04": {
-   "count": 214,
+   "count": 279,
    "file": "2023/04.json"
   },
   "2023-07": {
-   "count": 236,
+   "count": 297,
    "file": "2023/07.json"
   },
   "2023-10": {
-   "count": 256,
+   "count": 300,
    "file": "2023/10.json"
   },
   "2024-01": {
-   "count": 226,
+   "count": 259,
    "file": "2024/01.json"
   },
   "2024-04": {
-   "count": 210,
+   "count": 268,
    "file": "2024/04.json"
   },
   "2024-07": {
-   "count": 236,
+   "count": 289,
    "file": "2024/07.json"
   },
   "2024-10": {
-   "count": 229,
+   "count": 286,
    "file": "2024/10.json"
   },
   "2025-01": {
-   "count": 228,
+   "count": 238,
    "file": "2025/01.json"
   },
   "2025-04": {
-   "count": 135,
+   "count": 280,
    "file": "2025/04.json"
   },
   "2025-07": {
-   "count": 98,
+   "count": 252,
    "file": "2025/07.json"
   },
   "2025-10": {
-   "count": 97,
+   "count": 254,
    "file": "2025/10.json"
   },
   "2026-01": {
-   "count": 106,
+   "count": 243,
    "file": "2026/01.json"
   },
   "2026-04": {
-   "count": 88,
+   "count": 238,
    "file": "2026/04.json"
   },
   "2026-07": {
-   "count": 85,
+   "count": 253,
    "file": "2026/07.json"
   },
   "2026-10": {
-   "count": 78,
+   "count": 152,
    "file": "2026/10.json"
   },
   "2027-01": {
-   "count": 3,
+   "count": 22,
    "file": "2027/01.json"
   },
   "2027-04": {
-   "count": 1,
+   "count": 4,
    "file": "2027/04.json"
   },
+  "2027-07": {
+   "count": 3,
+   "file": "2027/07.json"
+  },
   "2027-10": {
-   "count": 1,
+   "count": 3,
    "file": "2027/10.json"
   },
-  "2028-01": {
-   "count": 1,
-   "file": "2028/01.json"
-  },
   "2028-04": {
-   "count": 1,
+   "count": 2,
    "file": "2028/04.json"
   },
   "2029-01": {
-   "count": 1,
-   "file": "2029/01.json"
-  },
-  "2030-01": {
    "count": 2,
-   "file": "2030/01.json"
+   "file": "2029/01.json"
   }
  },
- "undated_rows": 2775
+ "undated_rows": 5091
 }
