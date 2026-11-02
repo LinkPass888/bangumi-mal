@@ -5471,7 +5471,7 @@
 },
 {
 "bangumi_id": 2310,
-"begin": "2009-07",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": 9819,
@@ -16138,7 +16138,7 @@
 "mal_id": 1186,
 "source": "both",
 "title_cn": "BATTLE ATHLETESS 大运动会",
-"title_native": "バトルアスリーテス 大運動会"
+"title_native": "バトルアスリーテス大運動会"
 },
 {
 "bangumi_id": 10414,
@@ -22681,6 +22681,16 @@
 "title_native": "Futurama (Season 7)"
 },
 {
+"bangumi_id": 22394,
+"begin": "1997-01",
+"broadcast": null,
+"conflict": false,
+"mal_id": 3526,
+"source": "extlinker",
+"title_cn": "魔法少女梅露露",
+"title_native": "魔法少女メルル"
+},
+{
 "bangumi_id": 22405,
 "begin": "2004-11-04T13:30:00.000Z",
 "broadcast": null,
@@ -26247,7 +26257,7 @@
 "conflict": false,
 "mal_id": 2291,
 "source": "both",
-"title_cn": "战斗吧!! 伊克萨1",
+"title_cn": "战斗吧！！伊库莎1",
 "title_native": "戦え!!イクサー1"
 },
 {
@@ -27277,7 +27287,7 @@
 "conflict": false,
 "mal_id": 2292,
 "source": "both",
-"title_cn": "冒险! 伊克萨3",
+"title_cn": "冒险！伊库萨3",
 "title_native": "冒険!イクサー3"
 },
 {
@@ -31771,6 +31781,16 @@
 "title_native": "DRAGON QUEST -ダイの大冒険-"
 },
 {
+"bangumi_id": 37994,
+"begin": "2000-12",
+"broadcast": null,
+"conflict": false,
+"mal_id": 1387,
+"source": "extlinker",
+"title_cn": "夜勤病栋",
+"title_native": "夜勤病棟"
+},
+{
 "bangumi_id": 38040,
 "begin": "2012-10-06T13:30:00.000Z",
 "broadcast": null,
@@ -34471,6 +34491,16 @@
 "title_native": "AURA 〜魔竜院光牙最後の闘い〜"
 },
 {
+"bangumi_id": 43368,
+"begin": "2012-01",
+"broadcast": null,
+"conflict": false,
+"mal_id": 11827,
+"source": "extlinker",
+"title_cn": "黑兽～被白浊沾污的高傲圣女～",
+"title_native": "黒獣〜気高き聖女は白濁に染まる〜"
+},
+{
 "bangumi_id": 43383,
 "begin": "2012-07",
 "broadcast": null,
@@ -35647,7 +35677,7 @@
 "conflict": false,
 "mal_id": 15061,
 "source": "both",
-"title_cn": "偶像活动 第一年",
+"title_cn": "偶像活动! 第一年",
 "title_native": "アイカツ!1年目"
 },
 {
@@ -37068,7 +37098,7 @@
 "mal_id": null,
 "source": "both",
 "title_cn": "BATTLE ATHLETESS 大运动会 OVA",
-"title_native": "バトルアスリーテス 大運動会 OVA"
+"title_native": "バトルアスリーテス大運動会 OVA"
 },
 {
 "bangumi_id": 49247,
@@ -37309,6 +37339,16 @@
 "source": "both",
 "title_cn": "生日快乐",
 "title_native": "ハッピーバースデー 命かがやく瞬間"
+},
+{
+"bangumi_id": 49532,
+"begin": "2009-06",
+"broadcast": null,
+"conflict": false,
+"mal_id": 6337,
+"source": "extlinker",
+"title_cn": "独蛾 THE ANIMATION",
+"title_native": "独蛾～THE ANIMATION～"
 },
 {
 "bangumi_id": 49559,
@@ -40251,6 +40291,16 @@
 "title_native": "The Pirates! In an Adventure with Scientists!"
 },
 {
+"bangumi_id": 56426,
+"begin": "1998-08",
+"broadcast": null,
+"conflict": false,
+"mal_id": 1763,
+"source": "extlinker",
+"title_cn": "午夜女豹",
+"title_native": "ミッドナイトパンサー"
+},
+{
 "bangumi_id": 56449,
 "begin": "1978-07",
 "broadcast": null,
@@ -41487,7 +41537,7 @@
 "conflict": false,
 "mal_id": 3154,
 "source": "both",
-"title_cn": "科学小飞侠",
+"title_cn": "科学小飞侠 OVA",
 "title_native": "GATCHAMAN"
 },
 {
@@ -41651,6 +41701,16 @@
 "title_native": "足洗邸の住人たち。 OAD"
 },
 {
+"bangumi_id": 61416,
+"begin": "2005-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": 3171,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "凌辱人妻温泉"
+},
+{
 "bangumi_id": 61429,
 "begin": "2013-01",
 "broadcast": null,
@@ -41679,6 +41739,16 @@
 "source": "both",
 "title_cn": "攻壳机动队ARISE border:1 Ghost Pain",
 "title_native": "攻殻機動隊ARISE border:1 Ghost Pain"
+},
+{
+"bangumi_id": 61504,
+"begin": "2002-05",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "黑姬 桎梏之馆",
+"title_native": "黒姫 桎梏の館"
 },
 {
 "bangumi_id": 61533,
@@ -41951,6 +42021,16 @@
 "title_native": "七都市物語 ～北極海戦線～"
 },
 {
+"bangumi_id": 62484,
+"begin": "2005-05",
+"broadcast": null,
+"conflict": false,
+"mal_id": 3307,
+"source": "extlinker",
+"title_cn": "毛茸茸大正电动娘ARISA",
+"title_native": "もけもけ大正電動娘ARISA"
+},
+{
 "bangumi_id": 62502,
 "begin": "2002-09",
 "broadcast": null,
@@ -42159,6 +42239,16 @@
 "source": "both",
 "title_cn": "星星的轨迹",
 "title_native": "お星さまのレール"
+},
+{
+"bangumi_id": 63052,
+"begin": "2012-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": 14991,
+"source": "extlinker",
+"title_cn": "后宫时间",
+"title_native": "ハーレムタイム THE ANIMATION"
 },
 {
 "bangumi_id": 63078,
@@ -42452,7 +42542,7 @@
 },
 {
 "bangumi_id": 64090,
-"begin": "1946-04",
+"begin": "1946-08",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -44457,8 +44547,8 @@
 "conflict": false,
 "mal_id": 6937,
 "source": "both",
-"title_cn": "赫米斯－风之爱",
-"title_native": "ヘルメス－愛は風の如く"
+"title_cn": "赫米斯：风之爱",
+"title_native": "ヘルメス—愛は風の如く"
 },
 {
 "bangumi_id": 68754,
@@ -44839,6 +44929,16 @@
 "source": "extlinker",
 "title_cn": "车库儿童",
 "title_native": "Garage Kids"
+},
+{
+"bangumi_id": 69427,
+"begin": "1998-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": 2681,
+"source": "extlinker",
+"title_cn": "Space Ofera 阿卡鲁达",
+"title_native": "Space Ofera アッガ・ルター"
 },
 {
 "bangumi_id": 69436,
@@ -45535,10 +45635,10 @@
 "begin": "1998-01",
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 12951,
 "source": "extlinker",
 "title_cn": "保卫旋风",
-"title_native": "エイウォール アブセントウィズアウトリーブ"
+"title_native": "AWOL -Absent Without Leave-"
 },
 {
 "bangumi_id": 72655,
@@ -46278,7 +46378,7 @@
 "mal_id": 1811,
 "source": "extlinker",
 "title_cn": "猎杀月球",
-"title_native": "バウンティ・ドッグ ~月面のイブ~"
+"title_native": "BOUNTY DOG/月面のイブ"
 },
 {
 "bangumi_id": 74294,
@@ -47087,8 +47187,8 @@
 "conflict": false,
 "mal_id": 1340,
 "source": "extlinker",
-"title_cn": "暗之司法官judge",
-"title_native": "闇の司法官 ジャッジ"
+"title_cn": "暗之司法官 judge",
+"title_native": "闇の司法官ジャッジ"
 },
 {
 "bangumi_id": 75626,
@@ -49408,7 +49508,7 @@
 "mal_id": 11659,
 "source": "extlinker",
 "title_cn": "PINK",
-"title_native": "PINK みずドロボウあめドロボウ"
+"title_native": "Pink みずドロボウあめドロボウ"
 },
 {
 "bangumi_id": 79939,
@@ -49479,6 +49579,16 @@
 "source": "extlinker",
 "title_cn": "恐怖新闻",
 "title_native": "恐怖新聞"
+},
+{
+"bangumi_id": 79958,
+"begin": "1996-04",
+"broadcast": null,
+"conflict": false,
+"mal_id": 2326,
+"source": "extlinker",
+"title_cn": "南极28号",
+"title_native": "南極28号"
 },
 {
 "bangumi_id": 79959,
@@ -49552,13 +49662,13 @@
 },
 {
 "bangumi_id": 79969,
-"begin": "1997-01",
+"begin": "1996-12",
 "broadcast": null,
 "conflict": false,
 "mal_id": 5330,
 "source": "extlinker",
 "title_cn": "爱丽丝 in Cyberland",
-"title_native": "ありすインサイバーランド"
+"title_native": "ありす in Cyberland"
 },
 {
 "bangumi_id": 79971,
@@ -51009,6 +51119,16 @@
 "source": "both",
 "title_cn": "阿拉蕾 企鹅村是大晴天",
 "title_native": "Dr.スランプ アラレちゃん んちゃ!ペンギン村はハレのち晴れ"
+},
+{
+"bangumi_id": 82724,
+"begin": "1999-09",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "ピッコマンの鬼畜道～真夜中のみるくパーティー～"
 },
 {
 "bangumi_id": 82725,
@@ -52938,7 +53058,7 @@
 "mal_id": 9500,
 "source": "both",
 "title_cn": "Starlight Scramble 恋爱候补生",
-"title_native": "スターライトスクランブル 恋愛候補生"
+"title_native": "恋愛候補生 STARLIGHT SCRAMBLE"
 },
 {
 "bangumi_id": 86670,
@@ -55671,6 +55791,16 @@
 "title_native": "官兵衛くんがゆく"
 },
 {
+"bangumi_id": 92908,
+"begin": "2003-01",
+"broadcast": null,
+"conflict": false,
+"mal_id": 2944,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "性裁"
+},
+{
 "bangumi_id": 92922,
 "begin": "2010-09",
 "broadcast": null,
@@ -57457,7 +57587,7 @@
 "conflict": false,
 "mal_id": 22819,
 "source": "both",
-"title_cn": "剧场版 偶像活动",
+"title_cn": "剧场版 偶像活动!",
 "title_native": "劇場版 アイカツ!"
 },
 {
@@ -57468,7 +57598,7 @@
 "mal_id": 6413,
 "source": "extlinker",
 "title_cn": "Go! Go! 恶魔少年",
-"title_native": "ゴーゴーアックマン"
+"title_native": "GO! GO! ACKMAN"
 },
 {
 "bangumi_id": 98342,
@@ -60252,13 +60382,13 @@
 },
 {
 "bangumi_id": 104559,
-"begin": "2008-03",
+"begin": "2008-04",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": null,
-"title_native": "念仏物語 親鸞さま ねがい、そして ひかり"
+"title_cn": "念佛物语",
+"title_native": "念仏物語 親鸞さま ねがい、そして ひかり。"
 },
 {
 "bangumi_id": 104560,
@@ -64117,7 +64247,7 @@
 "conflict": false,
 "mal_id": 6293,
 "source": "extlinker",
-"title_cn": "热血高校",
+"title_cn": "高校武斗传",
 "title_native": "高校武闘伝 クローズ"
 },
 {
@@ -64608,7 +64738,7 @@
 "mal_id": null,
 "source": "extlinker",
 "title_cn": "小助与力丸之高平岛的龙",
-"title_native": "小助さま 力丸さま―コンペイ島の竜―"
+"title_native": "小助さま力丸さま -コンペイ島の竜-"
 },
 {
 "bangumi_id": 112660,
@@ -69607,7 +69737,7 @@
 "conflict": false,
 "mal_id": 30845,
 "source": "both",
-"title_cn": "偶像活动 MUSIC AWARD 让我们一起领奖吧！",
+"title_cn": "偶像活动! MUSIC AWARD 让我们一起领奖吧！",
 "title_native": "アイカツ! ミュージックアワード みんなで賞をもらっちゃいまSHOW!"
 },
 {
@@ -74022,7 +74152,7 @@
 },
 {
 "bangumi_id": 131421,
-"begin": "2000-10",
+"begin": "1999-11",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -76839,6 +76969,16 @@
 "source": "both",
 "title_cn": "Q版变形金刚 更高人气者之路",
 "title_native": "キュートランスフォーマー さらなる人気者への道"
+},
+{
+"bangumi_id": 136034,
+"begin": "2015-05",
+"broadcast": null,
+"conflict": false,
+"mal_id": 30243,
+"source": "extlinker",
+"title_cn": "学院时间停止",
+"title_native": "学園で時間よ止まれ"
 },
 {
 "bangumi_id": 136047,
@@ -80867,7 +81007,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "both",
-"title_cn": "偶像活动 第二年",
+"title_cn": "偶像活动! 第二年",
 "title_native": "アイカツ!2年目"
 },
 {
@@ -80877,7 +81017,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "both",
-"title_cn": "偶像活动 第三年",
+"title_cn": "偶像活动! 第三年",
 "title_native": "アイカツ!3年目"
 },
 {
@@ -81867,7 +82007,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "both",
-"title_cn": "偶像活动 第四年",
+"title_cn": "偶像活动! 第四年",
 "title_native": "アイカツ!4年目"
 },
 {
@@ -82465,7 +82605,7 @@
 "begin": "2014-09",
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 65217,
 "source": "extlinker",
 "title_cn": "口水三国",
 "title_native": "口水三国"
@@ -84122,7 +84262,7 @@
 },
 {
 "bangumi_id": 147926,
-"begin": "1992-01",
+"begin": "1992-04",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -86882,7 +87022,7 @@
 },
 {
 "bangumi_id": 157781,
-"begin": "2012-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -90927,7 +91067,7 @@
 "conflict": false,
 "mal_id": 32717,
 "source": "both",
-"title_cn": "偶像活动Stars",
+"title_cn": "偶像活动Stars!",
 "title_native": "アイカツスターズ!"
 },
 {
@@ -91217,7 +91357,7 @@
 "conflict": false,
 "mal_id": 31485,
 "source": "both",
-"title_cn": "剧场版 偶像活动Stars",
+"title_cn": "剧场版 偶像活动Stars!",
 "title_native": "劇場版 アイカツスターズ!"
 },
 {
@@ -93755,7 +93895,7 @@
 "begin": null,
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 43637,
 "source": "extlinker",
 "title_cn": null,
 "title_native": "鱼盘"
@@ -103687,7 +103827,7 @@
 "conflict": false,
 "mal_id": 32806,
 "source": "both",
-"title_cn": "偶像活动 ~被盯上的魔法偶活卡~",
+"title_cn": "偶像活动! ～被盯上的魔法偶活卡～",
 "title_native": "アイカツ!～ねらわれた魔法のアイカツ!カ―ド～"
 },
 {
@@ -105227,7 +105367,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "both",
-"title_cn": "偶像活动Stars 第二年",
+"title_cn": "偶像活动Stars! 第二年",
 "title_native": "アイカツスターズ! 2年目"
 },
 {
@@ -109969,6 +110109,16 @@
 "source": "both",
 "title_cn": "少女☆歌剧 Revue Starlight",
 "title_native": "少女☆歌劇 レヴュースタァライト"
+},
+{
+"bangumi_id": 214268,
+"begin": "2017-04",
+"broadcast": null,
+"conflict": false,
+"mal_id": 35498,
+"source": "extlinker",
+"title_cn": "我与美咲老师",
+"title_native": "ボクとみさき先生"
 },
 {
 "bangumi_id": 214272,
@@ -118787,7 +118937,7 @@
 "conflict": false,
 "mal_id": 37204,
 "source": "both",
-"title_cn": "偶像活动Friends",
+"title_cn": "偶像活动Friends!",
 "title_native": "アイカツフレンズ!"
 },
 {
@@ -132997,8 +133147,8 @@
 "conflict": false,
 "mal_id": 39078,
 "source": "both",
-"title_cn": "偶像活动Friends ～闪耀的宝石～",
-"title_native": "アイカツフレンズ！～かがやきのジュエル～"
+"title_cn": "偶像活动Friends! ～闪耀的宝石～",
+"title_native": "アイカツフレンズ! ～かがやきのジュエル～"
 },
 {
 "bangumi_id": 273363,
@@ -139067,8 +139217,8 @@
 "conflict": false,
 "mal_id": 40266,
 "source": "both",
-"title_cn": "偶像活动 on Parade",
-"title_native": "アイカツオンパレード！"
+"title_cn": "偶像活动 on Parade!",
+"title_native": "アイカツオンパレード!"
 },
 {
 "bangumi_id": 289131,
@@ -144217,8 +144367,8 @@
 "conflict": false,
 "mal_id": 41555,
 "source": "both",
-"title_cn": "偶像活动 on Parade Dream Story",
-"title_native": "アイカツオンパレード！ドリームストーリー"
+"title_cn": "偶像活动 on Parade! Dream Story",
+"title_native": "アイカツオンパレード! ドリームストーリー"
 },
 {
 "bangumi_id": 302572,
@@ -146917,7 +147067,7 @@
 "conflict": false,
 "mal_id": 42321,
 "source": "both",
-"title_cn": "搏斗运动员们 大运动会 重启！",
+"title_cn": "BATTLE ATHLETESS 大运动会 ReSTART！",
 "title_native": "バトルアスリーテス大運動会 ReSTART!"
 },
 {
@@ -147577,8 +147727,8 @@
 "conflict": false,
 "mal_id": 31517,
 "source": "extlinker",
-"title_cn": null,
-"title_native": "ZIP! おはよう忍者隊 ガッチャマン"
+"title_cn": "早安科学小飞侠",
+"title_native": "おはよう忍者隊ガッチャマン"
 },
 {
 "bangumi_id": 310445,
@@ -153992,7 +154142,7 @@
 },
 {
 "bangumi_id": 319883,
-"begin": "2003-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": 23729,
@@ -154867,7 +155017,7 @@
 "conflict": false,
 "mal_id": 42653,
 "source": "both",
-"title_cn": "偶像活动Planet！",
+"title_cn": "偶像活动Planet!",
 "title_native": "アイカツプラネット!"
 },
 {
@@ -165779,7 +165929,7 @@
 "mal_id": 49981,
 "source": "both",
 "title_cn": "你与我最后的战场，亦或是世界起始的圣战 第二季",
-"title_native": "キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season II"
+"title_native": "キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season Ⅱ"
 },
 {
 "bangumi_id": 351373,
@@ -165848,8 +165998,8 @@
 "conflict": false,
 "mal_id": 52992,
 "source": "both",
-"title_cn": "偶像活动Planet！剧场版",
-"title_native": "劇場版アイカツプラネット！"
+"title_cn": "剧场版 偶像活动Planet!",
+"title_native": "劇場版 アイカツプラネット!"
 },
 {
 "bangumi_id": 351714,
@@ -172348,7 +172498,7 @@
 "conflict": false,
 "mal_id": 52993,
 "source": "extlinker",
-"title_cn": "偶像活动 10th STORY ～通往未来的STARWAY～",
+"title_cn": "偶像活动! 10th STORY ～通往未来的STARWAY～",
 "title_native": "アイカツ! 10th STORY ～未来へのSTARWAY～"
 },
 {
@@ -179738,7 +179888,7 @@
 "conflict": false,
 "mal_id": 53499,
 "source": "both",
-"title_cn": "偶像活动 10th STORY ～通往未来的STARWAY～",
+"title_cn": "偶像活动! 10th STORY ～通往未来的STARWAY～",
 "title_native": "アイカツ! 10th STORY ～未来へのSTARWAY～"
 },
 {
@@ -188768,7 +188918,7 @@
 "conflict": false,
 "mal_id": 56785,
 "source": "both",
-"title_cn": "名侦探柯南：百万美元的五棱星",
+"title_cn": "名侦探柯南 百万美元的五棱星",
 "title_native": "名探偵コナン 100万ドルの五稜星"
 },
 {
@@ -200463,7 +200613,7 @@
 },
 {
 "bangumi_id": 460555,
-"begin": null,
+"begin": "1954-01",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -204273,7 +204423,7 @@
 },
 {
 "bangumi_id": 470498,
-"begin": null,
+"begin": "1939-08",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -218359,7 +218509,7 @@
 "mal_id": 59415,
 "source": "both",
 "title_cn": "暗机 DARK MACHINE",
-"title_native": "Dark Machine The Animation"
+"title_native": "DARK MACHINE THE ANIMATION"
 },
 {
 "bangumi_id": 505562,
@@ -231468,7 +231618,7 @@
 "conflict": false,
 "mal_id": 61153,
 "source": "extlinker",
-"title_cn": "转生后的大圣女，极力隐瞒圣女的身分",
+"title_cn": "转生后的大圣女，极力隐瞒圣女的身份",
 "title_native": "転生した大聖女は、聖女であることをひた隠す"
 },
 {
@@ -232098,7 +232248,7 @@
 "conflict": false,
 "mal_id": 30960,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "飞天小翔",
 "title_native": "翔ちゃん空を飛ぶ"
 },
 {
@@ -233663,7 +233813,7 @@
 },
 {
 "bangumi_id": 548133,
-"begin": null,
+"begin": "2027-01",
 "broadcast": null,
 "conflict": false,
 "mal_id": 61324,
@@ -234788,7 +234938,7 @@
 "conflict": false,
 "mal_id": 16259,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "INFERIUS惑星战史外传 CONDITION GREEN",
 "title_native": "インフェリウス惑星戦史外伝 CONDITION GREEN"
 },
 {
@@ -253776,7 +253926,7 @@
 "begin": "2026-07",
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 65256,
 "source": "extlinker",
 "title_cn": "茶啊二中 第6季",
 "title_native": "茶啊二中第六季"
@@ -255188,8 +255338,8 @@
 "conflict": false,
 "mal_id": 63136,
 "source": "extlinker",
-"title_cn": "怪兽8号 完结篇",
-"title_native": "怪獣8号 完結編"
+"title_cn": "剧场版 怪兽8号",
+"title_native": "劇場版 怪獣8号"
 },
 {
 "bangumi_id": 616694,
@@ -257826,7 +257976,7 @@
 "begin": "2026-02",
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 65220,
 "source": "extlinker",
 "title_cn": "水边之夜",
 "title_native": "물가의 밤"
@@ -259043,7 +259193,7 @@
 },
 {
 "bangumi_id": 625303,
-"begin": null,
+"begin": "2027-01",
 "broadcast": null,
 "conflict": false,
 "mal_id": 63419,
@@ -280173,7 +280323,7 @@
 },
 {
 "bangumi_id": 659153,
-"begin": "2026-06",
+"begin": "2026-09",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -283338,7 +283488,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": "偶像活动Stars ～星之Progress～",
+"title_cn": "偶像活动Stars! ～星之Progress～",
 "title_native": "アイカツスターズ! ～星々のProgress～"
 },
 {
@@ -285146,8 +285296,8 @@
 "begin": "2026-10-05T02:00:00.000Z",
 "broadcast": "R/2026-10-05T02:00:00.000Z/P7D",
 "conflict": false,
-"mal_id": null,
-"source": "both",
+"mal_id": 64717,
+"source": "extlinker",
 "title_cn": "欢迎光临游之家！from Yu-hachi",
 "title_native": "ゆうさんち！from 遊ハち"
 },
@@ -285248,7 +285398,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": "魔物猎人妖子 Super Music Clip",
+"title_cn": "魔物猎人妖子Super Music Clip",
 "title_native": "魔物ハンター妖子スーパー・ミュージック・クリップ"
 },
 {
@@ -288293,13 +288443,13 @@
 },
 {
 "bangumi_id": 701566,
-"begin": null,
+"begin": "2027-01",
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 65223,
 "source": "extlinker",
 "title_cn": null,
-"title_native": "ハルとゲン　～70歳、はじめての子育て～"
+"title_native": "ハルとゲン ～70歳、はじめての子育て～"
 },
 {
 "bangumi_id": 701629,
@@ -288708,7 +288858,7 @@
 "conflict": false,
 "mal_id": 62312,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "只狼：永不言败 TV版",
 "title_native": "SEKIRO: NO DEFEAT"
 },
 {
@@ -291530,5 +291680,575 @@
 "source": "extlinker",
 "title_cn": "飞行的奇迹",
 "title_native": "Miracle of Flight"
+},
+{
+"bangumi_id": 714541,
+"begin": "2027-02",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "新世紀GPXサイバーフォーミュラEARLYDAYS RENEWAL MOVIE EDITION"
+},
+{
+"bangumi_id": 714743,
+"begin": "1970-01",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "青鸟",
+"title_native": "Синяя птица"
+},
+{
+"bangumi_id": 714909,
+"begin": "1984-02",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "天涯稚情",
+"title_native": "The Old Curiosity Shop"
+},
+{
+"bangumi_id": 715234,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "メイドインアビス 劇場シリーズ【第二部】"
+},
+{
+"bangumi_id": 715252,
+"begin": "2017-06",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Marvel's Edge of Venomverse"
+},
+{
+"bangumi_id": 715270,
+"begin": "2017-03",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "As Told by LEGO"
+},
+{
+"bangumi_id": 715275,
+"begin": "2024-08",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Avengers: Super Heroes Assemble"
+},
+{
+"bangumi_id": 715286,
+"begin": "2018-05",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Baymax and ..."
+},
+{
+"bangumi_id": 715308,
+"begin": "2020-06",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Chibi Tiny Tales"
+},
+{
+"bangumi_id": 715313,
+"begin": "2022-07",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Chibiverse"
+},
+{
+"bangumi_id": 715315,
+"begin": "2021-02",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Chibi Tiny Tales Season 2"
+},
+{
+"bangumi_id": 715317,
+"begin": "2022-01",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Chibi Tiny Tales Season 3"
+},
+{
+"bangumi_id": 715320,
+"begin": "2023-01",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Chibi Tiny Tales Season 4"
+},
+{
+"bangumi_id": 715321,
+"begin": "2023-09",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Chibiverse Season 2"
+},
+{
+"bangumi_id": 715325,
+"begin": "2024-01",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Chibi Tiny Tales Season 5"
+},
+{
+"bangumi_id": 715327,
+"begin": "2025-01",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Chibi Tiny Tales Season 6"
+},
+{
+"bangumi_id": 715338,
+"begin": "2025-01",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Chibiverse Season 3"
+},
+{
+"bangumi_id": 715339,
+"begin": "2026-05",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Chibiverse Season 4"
+},
+{
+"bangumi_id": 715365,
+"begin": "2024-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Groot Suits Up as the Avengers!"
+},
+{
+"bangumi_id": 715373,
+"begin": "2024-09",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Hasbro's Epic Marvel"
+},
+{
+"bangumi_id": 715375,
+"begin": "2025-06",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Holiday Heroes"
+},
+{
+"bangumi_id": 715376,
+"begin": "2024-06",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Hot Wheels: Marvel RacerVerse"
+},
+{
+"bangumi_id": 715380,
+"begin": "2016-11",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Marvel Funko Shorts"
+},
+{
+"bangumi_id": 715407,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 58929,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "「攻殻機動隊」 新作アニメーション"
+},
+{
+"bangumi_id": 715413,
+"begin": "2026-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "1996",
+"title_native": "1996"
+},
+{
+"bangumi_id": 715528,
+"begin": "2026-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "夢我夢中"
+},
+{
+"bangumi_id": 715529,
+"begin": "2019-07",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "ICE CREAM"
+},
+{
+"bangumi_id": 715541,
+"begin": "2013-05",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Marvel Heroes: The Chronicles of Doom"
+},
+{
+"bangumi_id": 715643,
+"begin": "2025-02",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Today in Marvel History Season 2"
+},
+{
+"bangumi_id": 715654,
+"begin": "2019-01",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Today in Marvel History"
+},
+{
+"bangumi_id": 715675,
+"begin": "2019-04",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "War of the Realms Ultimate Comic"
+},
+{
+"bangumi_id": 715685,
+"begin": "2019-08",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Absolute Carnage: Marvel Ultimate Comics"
+},
+{
+"bangumi_id": 715737,
+"begin": "2017-05",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Fruit Ninja: Frenzy Force"
+},
+{
+"bangumi_id": 715907,
+"begin": "2026-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "罗德岛学院"
+},
+{
+"bangumi_id": 715959,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "黒幕公爵の不細工夫人"
+},
+{
+"bangumi_id": 716107,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season Ⅲ"
+},
+{
+"bangumi_id": 716250,
+"begin": "2026-08",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "【活動記録】間章 Dream Interlude「能登はやさしや土までも」（蓮ノ空女学院スクールアイドルクラブ）"
+},
+{
+"bangumi_id": 716251,
+"begin": "2026-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "【活動記録】間章 Dream Interlude「陽ノ下に咲く蓮」（蓮ノ空女学院スクールアイドルクラブ）"
+},
+{
+"bangumi_id": 716351,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "王者特派：青莲必达"
+},
+{
+"bangumi_id": 716354,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 26233,
+"source": "extlinker",
+"title_cn": "狐狸的误解",
+"title_native": "きつねのかんちがい"
+},
+{
+"bangumi_id": 716355,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 34191,
+"source": "extlinker",
+"title_cn": "圣诞老人特别忙",
+"title_native": "サンタさんは大いそがし"
+},
+{
+"bangumi_id": 716356,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 30969,
+"source": "extlinker",
+"title_cn": "温柔的大灰狼",
+"title_native": "やさしいオオカミ"
+},
+{
+"bangumi_id": 716357,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 26325,
+"source": "extlinker",
+"title_cn": "大家是第一",
+"title_native": "みんないちばん！"
+},
+{
+"bangumi_id": 716358,
+"begin": "2012-01",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "宇宙战舰大和号 复活篇 导演剪辑版",
+"title_native": "宇宙戦艦ヤマト 復活篇 ディレクターズカット"
+},
+{
+"bangumi_id": 716359,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "动画汉诗・汉文的世界",
+"title_native": "アニメ漢詩・漢文の世界"
+},
+{
+"bangumi_id": 716360,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 30970,
+"source": "extlinker",
+"title_cn": "儿童文学图书馆",
+"title_native": "児童文学ライブラリー"
+},
+{
+"bangumi_id": 716361,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "みんなの皇女様"
+},
+{
+"bangumi_id": 716362,
+"begin": "2024-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "宇宙战舰大和号 8mm版",
+"title_native": "宇宙戦艦ヤマト 8mmフィルム版"
+},
+{
+"bangumi_id": 716364,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "年下夫の未来のために、離婚状を置いて出ていった結果"
+},
+{
+"bangumi_id": 716365,
+"begin": "2020-12",
+"broadcast": null,
+"conflict": false,
+"mal_id": 45042,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "冷血狂宴"
+},
+{
+"bangumi_id": 716367,
+"begin": "2026-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "歯ならび～ズ"
+},
+{
+"bangumi_id": 716406,
+"begin": "2012-04",
+"broadcast": null,
+"conflict": false,
+"mal_id": 44161,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "摩尔庄园周播剧"
+},
+{
+"bangumi_id": 716415,
+"begin": "2010-02",
+"broadcast": null,
+"conflict": false,
+"mal_id": 44162,
+"source": "extlinker",
+"title_cn": "摩尔庄园（2009）",
+"title_native": "摩尔庄园"
+},
+{
+"bangumi_id": 716419,
+"begin": "2021-07",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "小花仙大电影SP小剧场"
+},
+{
+"bangumi_id": 716534,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "デュアルシャドウ～Precure Villain Heroines～"
+},
+{
+"bangumi_id": 716617,
+"begin": "2026-11",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "メカザムライ"
+},
+{
+"bangumi_id": 716640,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "蟑螂",
+"title_native": "Karaluch. Blatta orientalis"
 }
 ]
