@@ -5471,7 +5471,7 @@
 },
 {
 "bangumi_id": 2310,
-"begin": null,
+"begin": "2009-07",
 "broadcast": null,
 "conflict": false,
 "mal_id": 9819,
@@ -36777,7 +36777,7 @@
 "conflict": false,
 "mal_id": 12857,
 "source": "both",
-"title_cn": "驭星者 闪亮的拓人 剧场版",
+"title_cn": "驭星者 THE MOVIE",
 "title_native": "スタードライバー THE MOVIE"
 },
 {
@@ -45429,6 +45429,16 @@
 "source": "extlinker",
 "title_cn": null,
 "title_native": "憨八龟的故事之我来自他星"
+},
+{
+"bangumi_id": 72333,
+"begin": "1997-08",
+"broadcast": null,
+"conflict": false,
+"mal_id": 4822,
+"source": "extlinker",
+"title_cn": "项链",
+"title_native": "ペンダント"
 },
 {
 "bangumi_id": 72334,
@@ -57172,12 +57182,12 @@
 },
 {
 "bangumi_id": 96897,
-"begin": "1987-01",
+"begin": "1987-05",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": "学院变体立达",
+"title_cn": "导片变奏曲",
 "title_native": "Academy Leader Variations"
 },
 {
@@ -63567,8 +63577,8 @@
 "conflict": false,
 "mal_id": 64332,
 "source": "extlinker",
-"title_cn": null,
-"title_native": "電動作戦 ガッタイオー"
+"title_cn": "电动作战Gattaioh",
+"title_native": "電動作戦ガッタイオー"
 },
 {
 "bangumi_id": 111793,
@@ -71992,7 +72002,7 @@
 },
 {
 "bangumi_id": 127201,
-"begin": "2006-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -113662,7 +113672,7 @@
 },
 {
 "bangumi_id": 220794,
-"begin": "2018-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -117912,7 +117922,7 @@
 },
 {
 "bangumi_id": 230944,
-"begin": null,
+"begin": "2014-09",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -136172,7 +136182,7 @@
 },
 {
 "bangumi_id": 280594,
-"begin": null,
+"begin": "2016-03",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -141632,7 +141642,7 @@
 },
 {
 "bangumi_id": 294881,
-"begin": "2020-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -144102,7 +144112,7 @@
 },
 {
 "bangumi_id": 302155,
-"begin": "2020-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -154952,7 +154962,7 @@
 },
 {
 "bangumi_id": 321083,
-"begin": "2023-07",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -155902,7 +155912,7 @@
 },
 {
 "bangumi_id": 324281,
-"begin": "2005-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": 34189,
@@ -160143,7 +160153,7 @@
 },
 {
 "bangumi_id": 334409,
-"begin": "2019-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -160153,7 +160163,7 @@
 },
 {
 "bangumi_id": 334416,
-"begin": "2018-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -165383,7 +165393,7 @@
 },
 {
 "bangumi_id": 349479,
-"begin": "2020-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -166143,7 +166153,7 @@
 },
 {
 "bangumi_id": 352822,
-"begin": "2021-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -166263,7 +166273,7 @@
 },
 {
 "bangumi_id": 352834,
-"begin": "2021-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -185833,7 +185843,7 @@
 },
 {
 "bangumi_id": 420048,
-"begin": "2021-10",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -188863,7 +188873,7 @@
 },
 {
 "bangumi_id": 429338,
-"begin": "2022-11",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -190159,7 +190169,7 @@
 "mal_id": null,
 "source": "extlinker",
 "title_cn": null,
-"title_native": "イマジン学園"
+"title_native": "イマジン学園 ワンワンビデオ"
 },
 {
 "bangumi_id": 432857,
@@ -193163,7 +193173,7 @@
 },
 {
 "bangumi_id": 441723,
-"begin": "2022-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -194593,7 +194603,7 @@
 },
 {
 "bangumi_id": 445249,
-"begin": "2018-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -194603,7 +194613,7 @@
 },
 {
 "bangumi_id": 445250,
-"begin": "2018-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -203019,7 +203029,7 @@
 "mal_id": null,
 "source": "extlinker",
 "title_cn": "为你，亚美尼亚",
-"title_native": "Kez, Hayastan"
+"title_native": "Քեզ, Հայաստան"
 },
 {
 "bangumi_id": 466296,
@@ -205243,11 +205253,11 @@
 },
 {
 "bangumi_id": 473416,
-"begin": "2026-06",
+"begin": "2026-06-25T16:00:00.000Z",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
-"source": "extlinker",
+"source": "both",
 "title_cn": "永远的大和号 REBEL3199 第六章 碧蓝迷宫",
 "title_native": "ヤマトよ永遠に REBEL3199 第六章 碧い迷宮"
 },
@@ -208043,7 +208053,7 @@
 },
 {
 "bangumi_id": 480215,
-"begin": "2021-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -214853,7 +214863,7 @@
 },
 {
 "bangumi_id": 497579,
-"begin": "2022-01",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -214863,7 +214873,7 @@
 },
 {
 "bangumi_id": 497581,
-"begin": "2023-06",
+"begin": null,
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -223568,7 +223578,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": "战斗吧!! 伊克萨1 特别篇",
+"title_cn": "战斗吧！！伊库莎1 特别篇",
 "title_native": "戦え!!イクサー1 特別編"
 },
 {
@@ -225253,7 +225263,7 @@
 },
 {
 "bangumi_id": 524988,
-"begin": null,
+"begin": "2026-12",
 "broadcast": null,
 "conflict": false,
 "mal_id": 60348,
@@ -231618,7 +231628,7 @@
 "conflict": false,
 "mal_id": 61153,
 "source": "extlinker",
-"title_cn": "转生后的大圣女，极力隐瞒圣女的身份",
+"title_cn": "转生后的大圣女，极力隐瞒圣女的身分",
 "title_native": "転生した大聖女は、聖女であることをひた隠す"
 },
 {
@@ -235023,11 +235033,11 @@
 },
 {
 "bangumi_id": 551304,
-"begin": "2026-10",
-"broadcast": null,
+"begin": "2026-10-24T16:00:00.000Z",
+"broadcast": "R/2026-10-24T16:00:00.000Z/P0D",
 "conflict": false,
 "mal_id": 61440,
-"source": "extlinker",
+"source": "both",
 "title_cn": "我的幸福婚姻 特别篇",
 "title_native": "わたしの幸せな結婚 特別篇"
 },
@@ -235698,7 +235708,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": "烟囱小镇的普佩 〜约定的钟楼〜",
+"title_cn": "烟囱小镇的普佩2：约定的钟楼",
 "title_native": "映画 えんとつ町のプペル 〜約束の時計台〜"
 },
 {
@@ -237118,7 +237128,7 @@
 "conflict": false,
 "mal_id": 61558,
 "source": "both",
-"title_cn": "偶像活动×美妙天堂 THE MOVIE -相遇的奇迹-",
+"title_cn": "偶像活动!×美妙天堂 THE MOVIE -相遇的奇迹-",
 "title_native": "アイカツ!×プリパラ THE MOVIE -出会いのキセキ！-"
 },
 {
@@ -237349,7 +237359,7 @@
 "mal_id": null,
 "source": "extlinker",
 "title_cn": null,
-"title_native": "斩神之凡尘神域剧场版 沧南之殇"
+"title_native": "斩神院线剧场版 沧南之殇"
 },
 {
 "bangumi_id": 555143,
@@ -240268,7 +240278,7 @@
 "conflict": false,
 "mal_id": 61813,
 "source": "extlinker",
-"title_cn": "ghost",
+"title_cn": "ghost / 夜之尽头",
 "title_native": "ghost／夜の果て"
 },
 {
@@ -240333,7 +240343,7 @@
 },
 {
 "bangumi_id": 564192,
-"begin": null,
+"begin": "2026-12",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -249083,13 +249093,13 @@
 },
 {
 "bangumi_id": 587772,
-"begin": null,
+"begin": "2027-05",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
 "title_cn": null,
-"title_native": "ガールズバンドクライ 新作映画"
+"title_native": "ガールズバンドクライ THE MOVIE"
 },
 {
 "bangumi_id": 587834,
@@ -249248,8 +249258,8 @@
 "conflict": false,
 "mal_id": 33484,
 "source": "extlinker",
-"title_cn": null,
-"title_native": "しろいぞう"
+"title_cn": "释迦物语 白象",
+"title_native": "ジャータカものがたり・しろいぞう"
 },
 {
 "bangumi_id": 588108,
@@ -249278,7 +249288,7 @@
 "conflict": false,
 "mal_id": 32227,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "睡觉的小猪",
 "title_native": "いねむりぶうちゃん"
 },
 {
@@ -249328,7 +249338,7 @@
 "conflict": false,
 "mal_id": 21761,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "蚂蚁与鸽子",
 "title_native": "ありとはと"
 },
 {
@@ -251456,7 +251466,7 @@
 "begin": null,
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 65291,
 "source": "extlinker",
 "title_cn": "狼森、笊森和盜森",
 "title_native": "おいの狼森とざる森、めすと森"
@@ -251528,7 +251538,7 @@
 "conflict": false,
 "mal_id": 34224,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "动物村的孩子们",
 "title_native": "どうぶつむらのこどもたち"
 },
 {
@@ -251593,7 +251603,7 @@
 },
 {
 "bangumi_id": 599513,
-"begin": null,
+"begin": "1970-08",
 "broadcast": null,
 "conflict": false,
 "mal_id": 34162,
@@ -251648,7 +251658,7 @@
 "conflict": false,
 "mal_id": 33485,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "哭泣的赤鬼",
 "title_native": "泣いた赤おに"
 },
 {
@@ -251658,8 +251668,8 @@
 "conflict": false,
 "mal_id": 33344,
 "source": "extlinker",
-"title_cn": null,
-"title_native": "セロひきのゴーシュ 1963"
+"title_cn": "大提琴手高修 人偶版",
+"title_native": "セロひきのゴーシュ"
 },
 {
 "bangumi_id": 599562,
@@ -251728,8 +251738,8 @@
 "conflict": false,
 "mal_id": 29928,
 "source": "extlinker",
-"title_cn": null,
-"title_native": "ジャータカ物語 きんいろのしか"
+"title_cn": "释迦物语 黄金鹿",
+"title_native": "ジャータカものがたり・きんいろのしか"
 },
 {
 "bangumi_id": 599789,
@@ -251878,7 +251888,7 @@
 "conflict": false,
 "mal_id": 34227,
 "source": "extlinker",
-"title_cn": "美女与野兽",
+"title_cn": "美女与怪兽王子",
 "title_native": "ベルとかいじゅう王子"
 },
 {
@@ -251898,7 +251908,7 @@
 "conflict": false,
 "mal_id": 35496,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "幽霊屋敷",
 "title_native": "幽霊屋敷"
 },
 {
@@ -253733,7 +253743,7 @@
 },
 {
 "bangumi_id": 611884,
-"begin": null,
+"begin": "2027-01",
 "broadcast": null,
 "conflict": false,
 "mal_id": 63038,
@@ -264473,7 +264483,7 @@
 },
 {
 "bangumi_id": 635746,
-"begin": null,
+"begin": "2001-09",
 "broadcast": null,
 "conflict": false,
 "mal_id": 4524,
@@ -265706,7 +265716,7 @@
 "begin": "2026-10",
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 63772,
 "source": "extlinker",
 "title_cn": "剧场版 前桥魔女",
 "title_native": "劇場版 前橋ウィッチーズ ～魔女見習いのエモエモリーズ～"
@@ -268453,8 +268463,8 @@
 },
 {
 "bangumi_id": 640765,
-"begin": "2026-11",
-"broadcast": null,
+"begin": "2026-11-06T16:00:00.000Z",
+"broadcast": "R/2026-11-06T16:00:00.000Z/P7D",
 "conflict": false,
 "mal_id": 63938,
 "source": "extlinker",
@@ -271083,7 +271093,7 @@
 },
 {
 "bangumi_id": 644636,
-"begin": "2026-05",
+"begin": "2026-10",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -280328,8 +280338,8 @@
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": "沧海琴声",
-"title_native": "The Violinist (2026)"
+"title_cn": null,
+"title_native": "沧海琴声"
 },
 {
 "bangumi_id": 659181,
@@ -282058,7 +282068,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": "不孤单",
+"title_cn": "小小星同伴",
 "title_native": "Not Alone"
 },
 {
@@ -283373,7 +283383,7 @@
 },
 {
 "bangumi_id": 665014,
-"begin": null,
+"begin": "2026-10",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -288497,7 +288507,7 @@
 "broadcast": "R/2026-10-02T12:25:00.000Z/P7D",
 "conflict": false,
 "mal_id": 65009,
-"source": "extlinker",
+"source": "both",
 "title_cn": "苍蓝传承 威尔什&榭达",
 "title_native": "Welsh & Shedar"
 },
@@ -289653,13 +289663,13 @@
 },
 {
 "bangumi_id": 709316,
-"begin": null,
+"begin": "2026-11",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
 "title_cn": null,
-"title_native": "The Proud Family: Louder and Prouder: A Proud Family Wizmas"
+"title_native": "A Proud Family Wizmas"
 },
 {
 "bangumi_id": 709317,
@@ -291936,7 +291946,7 @@
 "begin": "2026-10",
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 65277,
 "source": "extlinker",
 "title_cn": null,
 "title_native": "夢我夢中"
@@ -292016,7 +292026,7 @@
 "begin": "2026-10",
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 65261,
 "source": "extlinker",
 "title_cn": null,
 "title_native": "罗德岛学院"
@@ -292036,9 +292046,9 @@
 "begin": null,
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 65259,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "你与我最后的战场，亦或是世界起始的圣战 第三季",
 "title_native": "キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season Ⅲ"
 },
 {
@@ -292126,7 +292136,7 @@
 "begin": null,
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 65267,
 "source": "extlinker",
 "title_cn": "动画汉诗・汉文的世界",
 "title_native": "アニメ漢詩・漢文の世界"
@@ -292203,7 +292213,7 @@
 },
 {
 "bangumi_id": 716415,
-"begin": "2010-02",
+"begin": "2009-07",
 "broadcast": null,
 "conflict": false,
 "mal_id": 44162,
@@ -292250,5 +292260,385 @@
 "source": "extlinker",
 "title_cn": "蟑螂",
 "title_native": "Karaluch. Blatta orientalis"
+},
+{
+"bangumi_id": 716702,
+"begin": "2023-09",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "일등이든 이등이든"
+},
+{
+"bangumi_id": 716831,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "ごーすと・みーつ・ぎゃる！ 2期"
+},
+{
+"bangumi_id": 716967,
+"begin": "2026-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "乱世千金倪亚‧利斯顿 迷你动画",
+"title_native": "凶乱令嬢 ニア・リストンミニ"
+},
+{
+"bangumi_id": 716985,
+"begin": "2026-09",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "КРАЙ ЧУДЕС"
+},
+{
+"bangumi_id": 716998,
+"begin": "2026-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": 65278,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "にゃんにゃんきゅるるん猫濃度"
+},
+{
+"bangumi_id": 717079,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "年下皇帝の執着に困ってます！"
+},
+{
+"bangumi_id": 717081,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "死んだのは私なのに勇者様の様子がおかしい"
+},
+{
+"bangumi_id": 717107,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "私を眠らせられるのはあなただけ"
+},
+{
+"bangumi_id": 717118,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "色欲覇道～魔力と精力ツヨツヨなので24時間無双します～"
+},
+{
+"bangumi_id": 717188,
+"begin": "1992-02",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Fish Police"
+},
+{
+"bangumi_id": 717351,
+"begin": "2026-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "柚子特莉莉×露露特莉莉《Animal Carnival》联合歌唱MV",
+"title_native": "ゆずっとリリィ×ルルットリリィ「アニマルカーニバル」コラボ歌唱MV"
+},
+{
+"bangumi_id": 717363,
+"begin": "2027-01",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "ポールプリンセス!! -Croix du Nord-"
+},
+{
+"bangumi_id": 717369,
+"begin": "2026-09",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Marvel’s Spidey and the Avengers: Halloween Team-Up!"
+},
+{
+"bangumi_id": 717373,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "青萍"
+},
+{
+"bangumi_id": 717375,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "永生 第六季"
+},
+{
+"bangumi_id": 717377,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "斗罗大陆Ⅲ龙王传说"
+},
+{
+"bangumi_id": 717378,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "星游记前传"
+},
+{
+"bangumi_id": 717455,
+"begin": "2022-08",
+"broadcast": null,
+"conflict": false,
+"mal_id": 54330,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "子猫の配達員 うーにゃん"
+},
+{
+"bangumi_id": 717456,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 65288,
+"source": "extlinker",
+"title_cn": "柊氏一家的吸血内幕",
+"title_native": "柊さんちの吸血事情"
+},
+{
+"bangumi_id": 717490,
+"begin": "2021-03",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "황자님께 입덕합니다 무빙툰"
+},
+{
+"bangumi_id": 717591,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "クロミ"
+},
+{
+"bangumi_id": 717598,
+"begin": "2008-07",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "高地人：复仇之旅 加长完全版",
+"title_native": "HIGHLANDER ハイランダー ディレクターズカット版"
+},
+{
+"bangumi_id": 717599,
+"begin": "2014-03",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "龙珠Z 神与神 特别版",
+"title_native": "ドラゴンボールZ 神と神 スペシャル・エディション"
+},
+{
+"bangumi_id": 717600,
+"begin": "1986-09",
+"broadcast": null,
+"conflict": false,
+"mal_id": 65293,
+"source": "extlinker",
+"title_cn": "粉红色的月亮",
+"title_native": "お月さんももいろ"
+},
+{
+"bangumi_id": 717601,
+"begin": "1988-08",
+"broadcast": null,
+"conflict": false,
+"mal_id": 35060,
+"source": "extlinker",
+"title_cn": "日本鬼故事",
+"title_native": "日本のおばけ話"
+},
+{
+"bangumi_id": 717602,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 32716,
+"source": "extlinker",
+"title_cn": "日本童话",
+"title_native": "日本のおとぎばなし"
+},
+{
+"bangumi_id": 717627,
+"begin": "2005-03",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "游戏王剧场版 光之金字塔 日本特別编集版",
+"title_native": "遊☆戯☆王デュエルモンスターズ 光のピラミッド 日本特別編集版"
+},
+{
+"bangumi_id": 717907,
+"begin": "2026-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "世界计划 缤纷舞台！ feat. 初音未来 6周年纪念曲『Emerald』2DMV",
+"title_native": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク 6周年アニバーサリーソング『エメラルド』2DMV"
+},
+{
+"bangumi_id": 717930,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 65298,
+"source": "extlinker",
+"title_cn": "罗梅莉亚战记 第2部分",
+"title_native": "ロメリア戦記 第IIクール"
+},
+{
+"bangumi_id": 718021,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "シバつき物件"
+},
+{
+"bangumi_id": 718060,
+"begin": "2026-11",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "ショートアニメ『カリスマ』"
+},
+{
+"bangumi_id": 718086,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "电影 孤独摇滚！星之足迹",
+"title_native": "映画ぼっち・ざ・ろっく！星のあしあと"
+},
+{
+"bangumi_id": 718168,
+"begin": "2026-11",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "MrBeast Lab Season 2"
+},
+{
+"bangumi_id": 718180,
+"begin": "2026-11",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "堡垒之夜 × 航海王｜联动PV",
+"title_native": "FORTNITE × ONE PIECE｜コラボレーションPV"
+},
+{
+"bangumi_id": 718221,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "我的哪吒与变形金刚 第二季"
+},
+{
+"bangumi_id": 718278,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "血に飢えた花嫁は王を喰らう"
+},
+{
+"bangumi_id": 718443,
+"begin": "2014-07",
+"broadcast": null,
+"conflict": false,
+"mal_id": 43313,
+"source": "extlinker",
+"title_cn": "麦太家居万能侠",
+"title_native": "麥太扭花臣"
+},
+{
+"bangumi_id": 718448,
+"begin": "2024-10",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "Disney Off the Page Adventures"
 }
 ]

@@ -1,8 +1,8 @@
 {
  "by_source": {
   "bangumi-data": 60,
-  "both": 8717,
-  "extlinker": 20448
+  "both": 8720,
+  "extlinker": 20484
  },
  "conflict_policy": "BangumiExtLinker wins; the rejected MAL id is kept in conflicts.json",
  "conflicts": 2,
@@ -11,14 +11,14 @@
   "seasons": "seasons/<year>/<MM>.json (MM = 01/04/07/10), listed in seasons/index.json",
   "sharded": "shards/<bangumi_id % 100>.json"
  },
- "generated_at": "2026-11-02T11:59:26Z",
- "no_mal_id": 13536,
- "pairs": 15689,
- "records": 29225,
+ "generated_at": "2026-11-09T12:31:36Z",
+ "no_mal_id": 13560,
+ "pairs": 15704,
+ "records": 29264,
  "seasons": 453,
  "sources": {
   "BangumiExtLinker": "https://github.com/Rhilip/BangumiExtLinker",
   "bangumi-data": "https://github.com/bangumi-data/bangumi-data"
  },
- "undated_rows": 5104
+ "undated_rows": 5129
 }
