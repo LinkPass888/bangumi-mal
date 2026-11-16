@@ -21047,7 +21047,7 @@
 "conflict": false,
 "mal_id": 8687,
 "source": "both",
-"title_cn": "哆啦A梦",
+"title_cn": "哆啦A梦 水田版",
 "title_native": "ドラえもん"
 },
 {
@@ -32722,7 +32722,7 @@
 },
 {
 "bangumi_id": 39088,
-"begin": "2005-07",
+"begin": "2005-05",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -49358,7 +49358,7 @@
 "mal_id": null,
 "source": "both",
 "title_cn": "银河英雄传说外传 千亿的星辰、千亿的光芒",
-"title_native": "銀河英雄伝説外伝 千僟の星、千僟の光"
+"title_native": "銀河英雄伝説外伝 千億の星、千億の光"
 },
 {
 "bangumi_id": 79676,
@@ -56722,7 +56722,7 @@
 },
 {
 "bangumi_id": 95796,
-"begin": "2014-05",
+"begin": "2014-06",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -62107,8 +62107,8 @@
 "conflict": false,
 "mal_id": 25389,
 "source": "both",
-"title_cn": "龙珠Z 复活的F",
-"title_native": "ドラゴンボールZ 復活のF"
+"title_cn": "龙珠Z 复活的弗利萨",
+"title_native": "ドラゴンボールZ 復活の「F」"
 },
 {
 "bangumi_id": 108465,
@@ -76317,7 +76317,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "米奇的演剧",
 "title_native": "Mickey's Mellerdrammer"
 },
 {
@@ -81177,7 +81177,7 @@
 "conflict": false,
 "mal_id": 5929,
 "source": "both",
-"title_cn": null,
+"title_cn": "火雨落下",
 "title_native": "火の雨がふる"
 },
 {
@@ -88042,12 +88042,12 @@
 },
 {
 "bangumi_id": 159725,
-"begin": "2019-09",
+"begin": "2019-09-06T16:00:00.000Z",
 "broadcast": null,
 "conflict": false,
 "mal_id": 40211,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "罗小黑战记 电影版",
 "title_native": "罗小黑战记"
 },
 {
@@ -88737,7 +88737,7 @@
 "conflict": false,
 "mal_id": 2707,
 "source": "both",
-"title_cn": "怪侠佐罗利 第二季",
+"title_cn": "正经又不正经 怪侠佐罗利",
 "title_native": "まじめにふまじめ かいけつゾロリ"
 },
 {
@@ -102887,7 +102887,7 @@
 "conflict": false,
 "mal_id": 28071,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "阳光常在我心",
 "title_native": "いつも心に太陽を!"
 },
 {
@@ -108867,7 +108867,7 @@
 "conflict": false,
 "mal_id": 34725,
 "source": "both",
-"title_cn": "解谜之音",
+"title_cn": "解密答案",
 "title_native": "カイトアンサ"
 },
 {
@@ -109527,7 +109527,7 @@
 "conflict": false,
 "mal_id": 8194,
 "source": "both",
-"title_cn": "恶魔小子",
+"title_cn": "恶魔君",
 "title_native": "悪魔くん"
 },
 {
@@ -113127,7 +113127,7 @@
 "conflict": false,
 "mal_id": 17405,
 "source": "extlinker",
-"title_cn": "日野日出志版 东海道 四谷怪谈",
+"title_cn": "东海道四谷怪谈 此恨岂能消",
 "title_native": "東海道 四谷怪談 このうらみはらさでおくべきか…"
 },
 {
@@ -113767,7 +113767,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": "动画师和动画",
+"title_cn": "火柴人 VS 动画师",
 "title_native": "Animator vs. Animation"
 },
 {
@@ -136957,7 +136957,7 @@
 "conflict": false,
 "mal_id": 38850,
 "source": "both",
-"title_cn": "电影 Star☆Twinkle 光之美少女 满怀思念的星之歌",
+"title_cn": "电影 Star☆Twinkle 光之美少女 向星之歌倾注思念",
 "title_native": "映画 スター☆トゥインクルプリキュア 星のうたに想いをこめて"
 },
 {
@@ -147505,7 +147505,7 @@
 "begin": "2020-07",
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 65313,
 "source": "extlinker",
 "title_cn": "雷霆使命联合行动",
 "title_native": "雷霆使命联合行动"
@@ -164026,7 +164026,7 @@
 "begin": "2025-06",
 "broadcast": null,
 "conflict": false,
-"mal_id": 62276,
+"mal_id": 49818,
 "source": "extlinker",
 "title_cn": "诡秘之主 小丑篇",
 "title_native": "诡秘之主 小丑篇"
@@ -183898,7 +183898,7 @@
 "conflict": false,
 "mal_id": 8227,
 "source": "both",
-"title_cn": "恶魔小子：欢迎来到恶魔乐园！！",
+"title_cn": "恶魔君：欢迎来到恶魔乐园！！",
 "title_native": "悪魔くん ようこそ悪魔ランドへ！！"
 },
 {
@@ -185118,7 +185118,7 @@
 "conflict": false,
 "mal_id": 8226,
 "source": "both",
-"title_cn": "恶魔小子",
+"title_cn": "恶魔君",
 "title_native": "悪魔くん"
 },
 {
@@ -204193,7 +204193,7 @@
 },
 {
 "bangumi_id": 469901,
-"begin": null,
+"begin": "2027-01",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -205268,7 +205268,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": "永远的大和号 REBEL3199 第七章",
+"title_cn": "永远的大和号 REBEL3199 第七章 虹色的轮回",
 "title_native": "ヤマトよ永遠に REBEL3199 第七章 虹色の輪廻"
 },
 {
@@ -217203,12 +217203,12 @@
 },
 {
 "bangumi_id": 502499,
-"begin": "2026-11",
+"begin": "2026-11-05T16:00:00.000Z",
 "broadcast": null,
 "conflict": false,
 "mal_id": 59217,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "GROTESQQQUE -怪异-",
 "title_native": "GROTESQQQUE -グロテスク-"
 },
 {
@@ -217968,7 +217968,7 @@
 "conflict": false,
 "mal_id": 63306,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "骚动！超级宝宝",
 "title_native": "おさわが！スーパーベビー"
 },
 {
@@ -232976,10 +232976,10 @@
 "begin": "2000-07",
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 557,
 "source": "extlinker",
-"title_cn": "钢铁天使胡桃 SINGLE COLLECTION",
-"title_native": "鋼鉄天使くるみ シングルコレクション"
+"title_cn": "钢铁天使胡桃 Encore",
+"title_native": "DVDシングルアニメーション 鋼鉄天使くるみ"
 },
 {
 "bangumi_id": 546191,
@@ -234968,7 +234968,7 @@
 "conflict": false,
 "mal_id": 60204,
 "source": "extlinker",
-"title_cn": "TAX生活笔记",
+"title_cn": "纳税生活笔记",
 "title_native": "タックンくらしのTAXノート"
 },
 {
@@ -238428,7 +238428,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "both",
-"title_cn": null,
+"title_cn": "梦境世界",
 "title_native": "Dreamland"
 },
 {
@@ -239073,7 +239073,7 @@
 },
 {
 "bangumi_id": 561171,
-"begin": null,
+"begin": "2027-01",
 "broadcast": null,
 "conflict": false,
 "mal_id": 61756,
@@ -239143,7 +239143,7 @@
 },
 {
 "bangumi_id": 561265,
-"begin": null,
+"begin": "2025-05",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -244763,12 +244763,12 @@
 },
 {
 "bangumi_id": 576733,
-"begin": null,
+"begin": "2026-11",
 "broadcast": null,
 "conflict": false,
 "mal_id": 62717,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "武动乾坤 第7季",
 "title_native": "武动乾坤 第七季"
 },
 {
@@ -244893,12 +244893,12 @@
 },
 {
 "bangumi_id": 576968,
-"begin": null,
+"begin": "2026-11",
 "broadcast": null,
 "conflict": false,
 "mal_id": 64448,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "斗破苍穹剧场版 双帝之战",
 "title_native": "斗破苍穹剧场版 双帝之战"
 },
 {
@@ -249098,7 +249098,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "少女乐队的呐喊 THE MOVIE",
 "title_native": "ガールズバンドクライ THE MOVIE"
 },
 {
@@ -253843,11 +253843,11 @@
 },
 {
 "bangumi_id": 612608,
-"begin": "2026-11",
-"broadcast": null,
+"begin": "2026-11-05T16:00:00.000Z",
+"broadcast": "R/2026-11-05T16:00:00.000Z/P7D",
 "conflict": false,
 "mal_id": 63045,
-"source": "extlinker",
+"source": "both",
 "title_cn": "恶魔纹章",
 "title_native": "デモンズ・クレスト"
 },
@@ -254348,7 +254348,7 @@
 "conflict": false,
 "mal_id": 27579,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "小咪的手掌",
 "title_native": "みいちゃんのてのひら"
 },
 {
@@ -262723,7 +262723,7 @@
 },
 {
 "bangumi_id": 633697,
-"begin": null,
+"begin": "2027-01",
 "broadcast": null,
 "conflict": false,
 "mal_id": 63640,
@@ -268846,7 +268846,7 @@
 "begin": "2027-02",
 "broadcast": null,
 "conflict": false,
-"mal_id": null,
+"mal_id": 65247,
 "source": "extlinker",
 "title_cn": "高智能方程式 ASURADA",
 "title_native": "新世紀GPXサイバーフォーミュラASURADA"
@@ -268973,7 +268973,7 @@
 },
 {
 "bangumi_id": 641892,
-"begin": null,
+"begin": "2010-03",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -278989,7 +278989,7 @@
 "mal_id": 64317,
 "source": "extlinker",
 "title_cn": "Paradox Live THE ANIMATION 电影",
-"title_native": "Paradox Live THE ANIMATION 映画"
+"title_native": "Paradox Live THE MOVIE"
 },
 {
 "bangumi_id": 656851,
@@ -281993,7 +281993,7 @@
 },
 {
 "bangumi_id": 662691,
-"begin": null,
+"begin": "2026-11",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -286473,7 +286473,7 @@
 },
 {
 "bangumi_id": 695770,
-"begin": null,
+"begin": "2026-12",
 "broadcast": null,
 "conflict": false,
 "mal_id": null,
@@ -287188,7 +287188,7 @@
 "conflict": false,
 "mal_id": 64877,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "我喜欢的她喜欢的人",
 "title_native": "ぼくの好きな人が好きな人"
 },
 {
@@ -288748,7 +288748,7 @@
 "conflict": false,
 "mal_id": null,
 "source": "extlinker",
-"title_cn": null,
+"title_cn": "蓝眼武士 第三季",
 "title_native": "Blue Eye Samurai Season 3"
 },
 {
@@ -292640,5 +292640,285 @@
 "source": "extlinker",
 "title_cn": null,
 "title_native": "Disney Off the Page Adventures"
+},
+{
+"bangumi_id": 718509,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 65318,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "推しに甘噛み"
+},
+{
+"bangumi_id": 718549,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "おしりたんてい 新作"
+},
+{
+"bangumi_id": 718694,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "魂环",
+"title_native": "スピリットサークル"
+},
+{
+"bangumi_id": 718875,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 65324,
+"source": "extlinker",
+"title_cn": "33岁单身女骑士队长。",
+"title_native": "33歳独身女騎士隊長。"
+},
+{
+"bangumi_id": 718899,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "迷途偶像地狱变",
+"title_native": "はぐれアイドル地獄変"
+},
+{
+"bangumi_id": 718904,
+"begin": "2026-11",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "「Ninja Skooler」样片",
+"title_native": "『ニンジャスクーラー』パイロットフィルム"
+},
+{
+"bangumi_id": 718931,
+"begin": "2017-05",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "恋をしたのは"
+},
+{
+"bangumi_id": 718932,
+"begin": "2017-05",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "speed of youth"
+},
+{
+"bangumi_id": 718941,
+"begin": "2024-05",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "「Ninja Skooler」先行版",
+"title_native": "『Ninja Skooler』パイロット版"
+},
+{
+"bangumi_id": 719102,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 65335,
+"source": "extlinker",
+"title_cn": "身为魔族的我想向勇者小队的可爱女孩告白。 第二季",
+"title_native": "勇者パーティーにかわいい子がいたので、告白してみた。 第2期"
+},
+{
+"bangumi_id": 719109,
+"begin": "2026-11",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "《异环》特别剧情短片丨X+Y=10KB世界"
+},
+{
+"bangumi_id": 719146,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 65332,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "原宿ヒメゴトハウス"
+},
+{
+"bangumi_id": 719182,
+"begin": "2021-11",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "恁北龐克仔",
+"title_native": "Bob Cuspe - Nós Não Gostamos de Gente"
+},
+{
+"bangumi_id": 719184,
+"begin": "2026-05",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "老尴这一家",
+"title_native": "Blaise"
+},
+{
+"bangumi_id": 719201,
+"begin": "2016-08",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "龙珠Z 复活的弗利萨 未来特兰克斯特别版",
+"title_native": "ドラゴンボールZ 復活の「F」“未来”トランクス特別編"
+},
+{
+"bangumi_id": 719202,
+"begin": "1998-09",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "乌鸦面包店",
+"title_native": "からすのパンやさん"
+},
+{
+"bangumi_id": 719203,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "小偷学校",
+"title_native": "どろぼうがっこう"
+},
+{
+"bangumi_id": 719204,
+"begin": "1992-08",
+"broadcast": null,
+"conflict": false,
+"mal_id": 28099,
+"source": "extlinker",
+"title_cn": "小小双胞胎 剧场版",
+"title_native": "リトルツインズ ぼくらの夏が飛んでいく"
+},
+{
+"bangumi_id": 719207,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "我的阿富汗家庭",
+"title_native": "Ma famille afghane"
+},
+{
+"bangumi_id": 719208,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "群岛",
+"title_native": "Archipel"
+},
+{
+"bangumi_id": 719240,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "蛙之剑法",
+"title_native": "カヘル剣法"
+},
+{
+"bangumi_id": 719248,
+"begin": "1947-09",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "邦果",
+"title_native": "Bongo"
+},
+{
+"bangumi_id": 719279,
+"begin": "2008-06",
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "杰克和鲸鱼的大冒险",
+"title_native": "The Marvelous Misadventures of Flapjack"
+},
+{
+"bangumi_id": 719314,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": "间谍过家家 第四季",
+"title_native": "SPY×FAMILY Season 4"
+},
+{
+"bangumi_id": 719323,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": null,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "SPY×FAMILY 劇場版第2弾"
+},
+{
+"bangumi_id": 719416,
+"begin": "2015-07",
+"broadcast": null,
+"conflict": false,
+"mal_id": 44558,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "暴走撸啊撸 第二季"
+},
+{
+"bangumi_id": 719417,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 44559,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "暴走撸啊撸 第三季"
+},
+{
+"bangumi_id": 719521,
+"begin": null,
+"broadcast": null,
+"conflict": false,
+"mal_id": 65362,
+"source": "extlinker",
+"title_cn": null,
+"title_native": "俺の死亡フラグが留まるところを知らない"
 }
 ]
